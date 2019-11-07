@@ -1,0 +1,30 @@
+.days {
+	&__btn {
+		background-color: rgb(0, 60, 255);
+		width: 100%;
+		text-align: left;
+		outline: none;
+		color: white;
+		font-weight: bold;
+		font-size: 1.3rem;
+		padding: 10px;
+		border: none;
+		cursor: pointer;
+		transition: background-color 0.3s linear;
+
+		&:active {
+			background-color: chartreuse;
+		}
+
+		&:hover {
+			background-color: rgb(0, 217, 255);
+		}
+	}
+
+	&__content {
+		display: none;
+		transition: max-height 0.3s ease;
+	}
+}
+
+

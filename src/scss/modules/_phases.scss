@@ -1,0 +1,61 @@
+.phases {
+	&__btn {
+		//background-color: rgb(217, 237, 250);
+		width: 100%;
+		text-align: left;
+		outline: none;
+		color: rgb(0, 0, 0);
+		font-weight: bold;
+		font-size: 1.3rem;
+		padding: 10px;
+border-radius: 8px;
+		cursor: pointer;
+		transition: background-color 0.3s linear;
+
+		&--phase-one {
+			margin: 10px;
+			//background-color: $phase-one-main;
+			border: 1px solid $phase-one-main;
+			&:hover {
+				background-color: $phase-one-main;
+				color: white;
+			}
+			&:active {
+				background-color: $phase-one-active;
+			}
+		}
+
+		&--phase-two {
+			margin: 10px;
+			//background-color: $phase-two-main;
+			border: 2px solid $phase-two-main;
+			color: $phase-two-main;
+			&:hover {
+				background-color: $phase-two-main;
+				color: white;
+			}
+			&:active {
+				background-color: $phase-two-active;
+			}
+		}
+		&--phase-three {
+			margin: 10px;
+			//background-color:$phase-three-main;
+
+			border: 1px solid $phase-three-main;
+			&:hover {
+				background-color: $phase-three-main;
+				color: white;
+			}
+			&:active {
+				background-color: $phase-three-active;
+			}
+		}
+	}
+
+	&__content {
+		//max-height: 0;
+		display: none;
+		transition: max-height 0.3s ease;
+	}
+}
