@@ -1,0 +1,53 @@
+.modal {
+	background-color: rgba(0, 0, 0, 0.5);
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 100vh;
+    display: none;
+    
+
+	&__content {
+		z-index: 88;
+		position: relative;
+		background-color: white;
+		border-radius: 8px;
+		padding: 20px;
+		top: 10%;
+
+		left: 50%;
+		right: 50%;
+		transform: translate(-50%);
+		width: 90%;
+        height: 80vh;
+        overflow: scroll;
+    }
+    
+    ul {
+        padding: 30px;
+        list-style: none;
+        font-size: 1.3rem;
+    } 
+    li {
+        text-align: center;
+    }
+p {
+    text-align: center;
+    padding: 20px;
+}
+section {
+    padding: 30px;
+}
+}
+
+
+
+.activation {
+    padding: 10px;
+    h1,h2,h3 {
+        text-align: center;
+        color: $training-component-activation;
+    }
+    
+}

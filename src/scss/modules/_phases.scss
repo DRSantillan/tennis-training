@@ -1,6 +1,7 @@
 .phases {
+	
 	&__btn {
-		//background-color: rgb(217, 237, 250);
+		
 		width: 100%;
 		text-align: left;
 		outline: none;
@@ -8,14 +9,15 @@
 		font-weight: bold;
 		font-size: 1.3rem;
 		padding: 10px;
-border-radius: 8px;
+		border-radius: 8px;
 		cursor: pointer;
 		transition: background-color 0.3s linear;
-
+margin: 10px;
 		&--phase-one {
-			margin: 10px;
+			
 			//background-color: $phase-one-main;
-			border: 1px solid $phase-one-main;
+			border: 3px solid $phase-one-main;
+			color: $phase-one-main;
 			&:hover {
 				background-color: $phase-one-main;
 				color: white;
@@ -26,9 +28,8 @@ border-radius: 8px;
 		}
 
 		&--phase-two {
-			margin: 10px;
-			//background-color: $phase-two-main;
-			border: 2px solid $phase-two-main;
+			
+			border: 3px solid $phase-two-main;
 			color: $phase-two-main;
 			&:hover {
 				background-color: $phase-two-main;
@@ -39,10 +40,10 @@ border-radius: 8px;
 			}
 		}
 		&--phase-three {
-			margin: 10px;
-			//background-color:$phase-three-main;
+			
 
-			border: 1px solid $phase-three-main;
+			border: 3px solid $phase-three-main;
+			color: $phase-three-main;
 			&:hover {
 				background-color: $phase-three-main;
 				color: white;
