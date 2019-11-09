@@ -7,7 +7,17 @@
 	height: 100vh;
     display: none;
     
-
+    &__close {
+        position: sticky;
+        top: 5px;
+        left: 0;
+        margin: 10px;
+        padding: 10px;
+        background-color: black;
+        border-radius: 8px;
+        color: white;
+        font-weight: bold;
+    }
 	&__content {
 		z-index: 88;
 		position: relative;
@@ -22,6 +32,10 @@
 		width: 90%;
         height: 80vh;
         overflow: scroll;
+
+        h1 {
+            text-align: center;
+        }
     }
     
     ul {

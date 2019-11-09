@@ -2,7 +2,9 @@ const phaseButtons = document.querySelectorAll('.phases__btn');
 const weeksButtons = document.querySelectorAll('.weeks__btn');
 const daysButtons = document.querySelectorAll('.days__btn');
 const componentButtons = document.querySelectorAll('.training-component');
+
 const modal = document.getElementById('modal');
+
 
 const classArray = [
 	'training-component--tennis',
@@ -28,13 +30,32 @@ const getComponentData = async (day, component) => {
 		if (item.day.toString() === day.toString()) {
 			item.components.forEach(com => {
 				if (com.component === component) {
-					modal.innerHTML = `<div class="modal__content">
+					modal.innerHTML = `<div class="modal__content"><span class="modal__close">X</span>
 					<h1>${com.component.charAt(0).toUpperCase() + com.component.slice(1)}</h1>
 					${com.content}</div>`;
+					
 				}
 			});
 		}
 	});
+	const closeModal = document.querySelector('.modal__close');
+	const videoButtons = document.querySelectorAll('.strength__btn');
+	closeModal.addEventListener('click', () => {
+
+		modal.style.display = 'none';
+	});
+	videoButtons.forEach(btn => {
+		btn.addEventListener('click', () => {
+			toggleVideos(videoButtons);
+			let content = btn.parentElement.parentNode.nextElementSibling;
+			if (content.style.display) {
+				content.style.display = null;
+			} else {
+				content.style.display = 'block';
+			}
+		});
+	});
+
 };
 
 componentButtons.forEach(btn => {
@@ -53,9 +74,7 @@ componentButtons.forEach(btn => {
 	});
 });
 
-modal.addEventListener('click', () => {
-	modal.style.display = 'none';
-});
+
 
 phaseButtons.forEach(btn => {
 	btn.addEventListener('click', () => {
@@ -92,12 +111,26 @@ daysButtons.forEach(btn => {
 		}
 	});
 });
-
+/* videoButtons.forEach(btn => {
+	btn.addEventListener('click', () => {
+		toggleVideos(videoButtons);
+		let content = btn.parentElement.parentNode.nextElementSibling;
+		if (content.style.display) {
+			content.style.display = null;
+		} else {
+			content.style.display = 'block';
+		}
+	});
+}); */
 const toggleContent = contentBtns => {
 	contentBtns.forEach(btn => {
 		let content = btn.nextElementSibling;
-		//content.style.maxHeight = null;
-
+		content.style.display = null;
+	});
+};
+const toggleVideos = contentBtns => {
+	contentBtns.forEach(btn => {
+		let content = btn.parentElement.parentNode.nextElementSibling;
 		content.style.display = null;
 	});
 };
