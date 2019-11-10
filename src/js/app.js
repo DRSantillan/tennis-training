@@ -5,7 +5,6 @@ const componentButtons = document.querySelectorAll('.training-component');
 
 const modal = document.getElementById('modal');
 
-
 const classArray = [
 	'training-component--tennis',
 	'training-component--aerobic',
@@ -22,26 +21,75 @@ const classArray = [
 ];
 
 const getComponentData = async (day, component) => {
-	const res = await fetch('./src/data/db.json');
+	let file = `./src/data/${component}.json`;
+	const res = await fetch(file);
 	const data = await res.json();
-	const { days } = data;
+	return data;
+};
+const strength = (day, data) => {
+	let content;
+	let header;
+	let total = '';
+	
+	data.forEach(item => {
+		header = `	<div class="strength">
+						
+							<div class="strength__row">
+								<h2>Training Phase: ${item.phase} - Gym: Week ${item.week} - Day: ${item.day}</h2>
+							</div>
+							<div class="strength__row">
+								<div class="strength__col strength__col--title">
+									Exercise Type
+								</div>
+								<div class="strength__col strength__col--title">Exercise</div>
+								<div class="strength__col strength__col--title">
+									Repetitions
+								</div>
+								<div class="strength__col strength__col--title">1</div>
+								<div class="strength__col strength__col--title">2</div>
+								<div class="strength__col strength__col--title">3</div>
+							</div>`;
 
-	days.forEach(item => {
-		if (item.day.toString() === day.toString()) {
-			item.components.forEach(com => {
-				if (com.component === component) {
-					modal.innerHTML = `<div class="modal__content"><span class="modal__close">X</span>
-					<h1>${com.component.charAt(0).toUpperCase() + com.component.slice(1)}</h1>
-					${com.content}</div>`;
-					
-				}
+		if (day.toString() === item.day.toString()) {
+			total += header;
+			//console.log(total);
+			item.exercises.forEach(ex => {
+				content = `<div class="strength__row">
+								<div class="strength__col strength__col--type">${ex.type}</div>
+								<div class="strength__col">
+									<button class="strength__btn">${ex.exercise}</button>
+								</div>
+								<div class="strength__col strength__col--reps">${ex.reps}</div>
+								<div class="strength__col"><input id="explosive-1" /> kg</div>
+								<div class="strength__col"><input id="explosive-2" /> kg</div>
+								<div class="strength__col"><input id="explosive-3" /> kg</div>
+							</div>
+							<div class="strength__col strength__col--video">
+							<video width="60%" controls>
+								<source
+									src="${ex.video}"
+									type="video/mp4"
+								/>
+								Your browser does not support the video tag.
+							</video>
+						</div>`;
+				
+				total += content;
 			});
+			total += `
+					</div>`;
+			console.log(total);
 		}
 	});
+	const modalContent = `<div class="modal__content">
+							<span class="modal__close">X</span>
+							<h1>Strength</h1>
+							${total}
+							</div>`;
+	modal.innerHTML = modalContent;
 	const closeModal = document.querySelector('.modal__close');
 	const videoButtons = document.querySelectorAll('.strength__btn');
 	closeModal.addEventListener('click', () => {
-
 		modal.style.display = 'none';
 	});
 	videoButtons.forEach(btn => {
@@ -55,7 +103,22 @@ const getComponentData = async (day, component) => {
 			}
 		});
 	});
+};
 
+const displayComponent = async (day, component) => {
+	let data;
+	switch (component) {
+		case 'strength':
+			data = getComponentData(day, component);
+			const { days } = await data;
+			strength(day, days);
+			break;
+		case 'activation':
+			data = getComponentData(day, component);
+			const { content } = await data;
+			//console.log(content);
+			break;
+	}
 };
 
 componentButtons.forEach(btn => {
@@ -67,14 +130,12 @@ componentButtons.forEach(btn => {
 		classArray.forEach(item => {
 			if (btnClassList.contains(item)) {
 				let component = item.replace('training-component--', '');
-
-				getComponentData(currentDay, component);
+				displayComponent(currentDay, component);
+				//getComponentData(currentDay, component);
 			}
 		});
 	});
 });
-
-
 
 phaseButtons.forEach(btn => {
 	btn.addEventListener('click', () => {

@@ -1,0 +1,1285 @@
+{
+	"days": [
+		{
+			"week": 1,
+			"phase": 1,
+			"day": 1,
+			"exercises": [
+				{
+					"type": "Explosive",
+					"exercise": "BB Jump Squat",
+					"reps": "5-4-3",
+					"video": "/dist/videos/explosive/BB Jump Squat.mp4"
+				},
+				{
+					"type": "Core",
+					"exercise": "Medicine Ball Rotation Slams",
+					"reps": "3 x 10",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/core/rotation/Med Ball Rotational Slams.mp4"
+				},
+				{
+					"type": "Pre-Hab",
+					"exercise": "DB Cuban Press",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/prehab/DB Cuban Press.mp4"
+				},
+				{
+					"type": "Knee Dominant",
+					"exercise": "Drop Lunge",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/knee/Drop Lunge.mp4"
+				},
+				{
+					"type": "Pull",
+					"exercise": "Seated Cable Rows",
+					"reps": "3 x 5",
+					"video": ""
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Active Straight Leg Raise",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Active Straight Leg Raise.mp4"
+				},
+				{
+					"type": "Hip Dominant",
+					"exercise": "BB Single Leg RDL Slide",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/hip/1-Leg RDL Slide.mp4"
+				},
+				{
+					"type": "Push",
+					"exercise": "BB Push Jerk",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/push/vertical/Push Jerk.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Triangle Mobility",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Triangle Mobility Drill.mp4"
+				}
+			]
+		},
+		{
+			"week": 1,
+			"phase": 1,
+			"day": 3,
+			"exercises": [
+				{
+					"type": "Explosive",
+					"exercise": "BB Hang Muscle Snatch",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/explosive/Hang Muscle Snatch.mp4"
+				},
+				{
+					"type": "Core",
+					"exercise": "TRX Body Saws",
+					"reps": "3 x 10",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/core/pillar/TRX Body Saws.mp4"
+				},
+				{
+					"type": "Pre-Hab",
+					"exercise": "KB Armbar",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/prehab/KB Arm Bar.mp4"
+				},
+				{
+					"type": "Knee Dominant",
+					"exercise": "BB Front Squat",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/knee/Front Squat.mp4"
+				},
+				{
+					"type": "Pull",
+					"exercise": "Pull-ups",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/pull/vertical/Pull Ups.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Bretzel",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Bretzel Mobility.mp4"
+				},
+				{
+					"type": "Hip Dominant",
+					"exercise": "Glute Ham Raise",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/hip/Glute Ham Raise.mp4"
+				},
+				{
+					"type": "Push",
+					"exercise": "BB Bench Press",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/push/horizontal/Bench Press.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Shinbox",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Shinbox.mp4"
+				}
+			]
+		},
+		{
+			"week": 1,
+			"phase": 1,
+			"day": 5,
+			"exercises": [
+				{
+					"type": "Explosive",
+					"exercise": "BB Hang High Pull",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/explosive/Hang High Pull.mp4"
+				},
+				{
+					"type": "Core",
+					"exercise": "KB Half TGU",
+					"reps": "3 x 10",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/core/rotation/Half Turkish Getup.mp4"
+				},
+				{
+					"type": "Pre-Hab",
+					"exercise": "TRX Alphabet",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/prehab/TRX Alphabet.mp4"
+				},
+				{
+					"type": "Knee Dominant",
+					"exercise": "BB Step Ups",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/knee/Step Ups.mp4"
+				},
+				{
+					"type": "Pull",
+					"exercise": "TRX Single Arm Row",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/pull/horizontal/TRX Single Arm Row.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Quad T-Spine",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Quad T-Spine.mp4"
+				},
+				{
+					"type": "Hip Dominant",
+					"exercise": "KB Band Swing",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/hip/KB Band Swing.mp4"
+				},
+				{
+					"type": "Push",
+					"exercise": "KB Push Press",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/push/vertical/Push Press.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "S2S",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/S2S.mp4"
+				}
+			]
+		},
+		{
+			"week": 2,
+			"phase": 1,
+			"day": 9,
+			"exercises": [
+				{
+					"type": "Explosive",
+					"exercise": "BB Jump Squat",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/explosive/BB Jump Squat.mp4"
+				},
+				{
+					"type": "Core",
+					"exercise": "Ab Wheel",
+					"reps": "3 x 10",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/core/pillar/Ab Wheel.mp4"
+				},
+				{
+					"type": "Pre-Hab",
+					"exercise": "TRX Mobility",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/prehab/TRX Mobility.mp4"
+				},
+				{
+					"type": "Knee Dominant",
+					"exercise": "KB Side Lunge",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/knee/Side Lunge.mp4"
+				},
+				{
+					"type": "Pull",
+					"exercise": "Cable Pulldown",
+					"reps": "3 x 5",
+					"video": ""
+				},
+				{
+					"type": "Mobility",
+					"exercise": "S2S",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/S2S.mp4"
+				},
+				{
+					"type": "Hip Dominant",
+					"exercise": "TRX Shelc",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/hip/TRX Shelc.mp4"
+				},
+				{
+					"type": "Push",
+					"exercise": "TRX Push-up",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/push/horizontal/TRX Pushup.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Quad T-Spine",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Quad T-Spine.mp4"
+				}
+			]
+		},
+		{
+			"week": 2,
+			"phase": 1,
+			"day": 11,
+			"exercises": [
+				{
+					"type": "Explosive",
+					"exercise": "BB Clean Snatch Pull",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/explosive/Clean Snatch Pull.mp4"
+				},
+				{
+					"type": "Core",
+					"exercise": "KB Windmill",
+					"reps": "3 x 10",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/core/rotation/KB Windmill.mp4"
+				},
+				{
+					"type": "Pre-Hab",
+					"exercise": "DB Cuban Press",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/prehab/DB Cuban Press.mp4"
+				},
+				{
+					"type": "Knee Dominant",
+					"exercise": "KB Lateral Step Ups",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/knee/Lateral Step Ups.mp4"
+				},
+				{
+					"type": "Pull",
+					"exercise": "KB Supported Row",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/pull/horizontal/DB Supported Row.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Shinbox",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Shinbox.mp4"
+				},
+				{
+					"type": "Hip Dominant",
+					"exercise": "Slide Shelcs",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/hip/Slide Shelcs.mp4"
+				},
+				{
+					"type": "Push",
+					"exercise": "BB Strict Shoulder Press",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/push/vertical/Strict Shoulder Press.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Bretzel",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Bretzel Mobility.mp4"
+				}
+			]
+		},
+		{
+			"week": 2,
+			"phase": 1,
+			"day": 13,
+			"exercises": [
+				{
+					"type": "Explosive",
+					"exercise": "BB Hang Clean",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/explosive/Hang Clean.mp4"
+				},
+				{
+					"type": "Core",
+					"exercise": "ValSlide Body Saws",
+					"reps": "3 x 10",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/core/pillar/Body Saws.mp4"
+				},
+				{
+					"type": "Pre-Hab",
+					"exercise": "KB Armbar",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/prehab/KB Arm Bar.mp4"
+				},
+				{
+					"type": "Knee Dominant",
+					"exercise": "KB RFE Squat",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/knee/RearFootElevatedSandbag.mp4"
+				},
+				{
+					"type": "Pull",
+					"exercise": "Side-to-Side Pull Ups",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/pull/vertical/Side To Side Pull Ups.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Triangle Mobility",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Triangle Mobility Drill.mp4"
+				},
+				{
+					"type": "Hip Dominant",
+					"exercise": "KB Stagger Swing",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/hip/KB Stagger Swing.mp4"
+				},
+				{
+					"type": "Push",
+					"exercise": "DB Half Bench Press",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/push/horizontal/DB Half Bench Press.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Active Straight Leg Raise",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Active Straight Leg Raise.mp4"
+				}
+			]
+		},
+		{
+			"week": 3,
+			"phase": 1,
+			"day": 15,
+			"exercises": [
+				{
+					"type": "Explosive",
+					"exercise": "Band Broad Jumps",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/explosive/Broad Jumps.mp4"
+				},
+				{
+					"type": "Core",
+					"exercise": "MB Rotation Combo",
+					"reps": "3 x 10",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/core/rotation/Med Ball Rotation Combo.mp4"
+				},
+				{
+					"type": "Pre-Hab",
+					"exercise": "TRX Alphabet",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/prehab/TRX Alphabet.mp4"
+				},
+				{
+					"type": "Knee Dominant",
+					"exercise": "Drop Lunge",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/knee/Drop Lunge.mp4"
+				},
+				{
+					"type": "Pull",
+					"exercise": "TRX Suspension Rows",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/pull/horizontal/TRX Suspension Rows.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Active Straight Leg Raise",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Active Straight Leg Raise.mp4"
+				},
+				{
+					"type": "Hip Dominant",
+					"exercise": "BB Single Leg RDL Slide",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/hip/1-Leg RDL Slide.mp4"
+				},
+				{
+					"type": "Push",
+					"exercise": "BB Push Jerk",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/push/vertical/Push Jerk.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Triangle Mobility",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Triangle Mobility Drill.mp4"
+				}
+			]
+		},
+		{
+			"week": 3,
+			"phase": 1,
+			"day": 17,
+			"exercises": [
+				{
+					"type": "Explosive",
+					"exercise": "BB Jump Squat",
+					"reps": "5-4-3",
+					"video": "/dist/videos/explosive/BB Jump Squat.mp4"
+				},
+				{
+					"type": "Core",
+					"exercise": "TRX Superman",
+					"reps": "3 x 10",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/core/pillar/TRX Superman.mp4"
+				},
+				{
+					"type": "Pre-Hab",
+					"exercise": "TRX Mobility",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/prehab/TRX Mobility.mp4"
+				},
+				{
+					"type": "Knee Dominant",
+					"exercise": "BB Front Squat",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/knee/Front Squat.mp4"
+				},
+				{
+					"type": "Pull",
+					"exercise": "Chin-ups",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/pull/vertical/Chin Ups.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Bretzel",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Bretzel Mobility.mp4"
+				},
+				{
+					"type": "Hip Dominant",
+					"exercise": "Glute Ham Raise",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/hip/Glute Ham Raise.mp4"
+				},
+				{
+					"type": "Push",
+					"exercise": "BB Bench Press",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/push/horizontal/Bench Press.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Shinbox",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Shinbox.mp4"
+				}
+			]
+		},
+		{
+			"week": 3,
+			"phase": 1,
+			"day": 19,
+			"exercises": [
+				{
+					"type": "Explosive",
+					"exercise": "Band Ice Skater Jumps",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/explosive/Ice Skater Jumps.mp4"
+				},
+				{
+					"type": "Core",
+					"exercise": "TRX Pull Push",
+					"reps": "3 x 10",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/core/rotation/TRX Pull Push.mp4"
+				},
+				{
+					"type": "Pre-Hab",
+					"exercise": "DB Cuban Press",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/prehab/DB Cuban Press.mp4"
+				},
+				{
+					"type": "Knee Dominant",
+					"exercise": "BB Step Ups",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/knee/Step Ups.mp4"
+				},
+				{
+					"type": "Pull",
+					"exercise": "Seated Cable Rows",
+					"reps": "3 x 5",
+					"video": ""
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Quad T-Spine",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Quad T-Spine.mp4"
+				},
+				{
+					"type": "Hip Dominant",
+					"exercise": "KB Band Swing",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/hip/KB Band Swing.mp4"
+				},
+				{
+					"type": "Push",
+					"exercise": "KB Push Press",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/push/vertical/Push Press.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "S2S",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/S2S.mp4"
+				}
+			]
+		},
+		{
+			"week": 1,
+			"phase": 2,
+			"day": 22,
+			"exercises": [
+				{
+					"type": "Explosive",
+					"exercise": "BB Clean Snatch Pull",
+					"reps": "3-2-1",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/explosive/Clean Snatch Pull.mp4"
+				},
+				{
+					"type": "Core",
+					"exercise": "ValSlide Floor Cleaners",
+					"reps": "3 x 8",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/core/pillar/Floor Cleaners.mp4"
+				},
+				{
+					"type": "Pre-Hab",
+					"exercise": "KB Armbar",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/prehab/KB Arm Bar.mp4"
+				},
+				{
+					"type": "Knee Dominant",
+					"exercise": "KB Side Lunge",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/knee/Side Lunge.mp4"
+				},
+				{
+					"type": "Pull",
+					"exercise": "Cable Pulldown",
+					"reps": "5-4-3",
+					"video": ""
+				},
+				{
+					"type": "Mobility",
+					"exercise": "S2S",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/S2S.mp4"
+				},
+				{
+					"type": "Hip Dominant",
+					"exercise": "TRX Shelc",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/hip/TRX Shelc.mp4"
+				},
+				{
+					"type": "Push",
+					"exercise": "TRX Push-up",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/push/horizontal/TRX Pushup.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Quad T-Spine",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Quad T-Spine.mp4"
+				}
+			]
+		},
+		{
+			"week": 1,
+			"phase": 2,
+			"day": 24,
+			"exercises": [
+				{
+					"type": "Explosive",
+					"exercise": "Seated Box Jump",
+					"reps": "3-2-1",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/explosive/Seated Box Jump.mp4"
+				},
+				{
+					"type": "Core",
+					"exercise": "Landmine(Gym Only)",
+					"reps": "3 x 8",
+					"video": ""
+				},
+				{
+					"type": "Pre-Hab",
+					"exercise": "TRX Alphabet",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/prehab/TRX Alphabet.mp4"
+				},
+				{
+					"type": "Knee Dominant",
+					"exercise": "KB Lateral Step Ups",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/knee/Lateral Step Ups.mp4"
+				},
+				{
+					"type": "Pull",
+					"exercise": "TRX Single Arm Row (advanced)",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/pull/horizontal/TRX Single Arm Row.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Shinbox",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Shinbox.mp4"
+				},
+				{
+					"type": "Hip Dominant",
+					"exercise": "Slide Shelcs",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/hip/Slide Shelcs.mp4"
+				},
+				{
+					"type": "Push",
+					"exercise": "BB Strict Shoulder Press",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/push/vertical/Strict Shoulder Press.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Bretzel",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Bretzel Mobility.mp4"
+				}
+			]
+		},
+		{
+			"week": 1,
+			"phase": 2,
+			"day": 26,
+			"exercises": [
+				{
+					"type": "Explosive",
+					"exercise": "BB Jump Squat",
+					"reps": "3-2-1",
+					"video": "/dist/videos/explosive/BB Jump Squat.mp4"
+				},
+				{
+					"type": "Core",
+					"exercise": "TRX Falling Hinge",
+					"reps": "3 x 8",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/core/pillar/TRX Falling Hinge.mp4"
+				},
+				{
+					"type": "Pre-Hab",
+					"exercise": "TRX Mobility",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/prehab/TRX Mobility.mp4"
+				},
+				{
+					"type": "Knee Dominant",
+					"exercise": "KB RFE Squat",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/knee/RearFootElevatedSandbag.mp4"
+				},
+				{
+					"type": "Pull",
+					"exercise": "Pull-ups",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/pull/vertical/Pull Ups.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Triangle Mobility",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Triangle Mobility Drill.mp4"
+				},
+				{
+					"type": "Hip Dominant",
+					"exercise": "KB Stagger Swing",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/hip/KB Stagger Swing.mp4"
+				},
+				{
+					"type": "Push",
+					"exercise": "DB Half Bench Press",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/push/horizontal/DB Half Bench Press.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Active Straight Leg Raise",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Active Straight Leg Raise.mp4"
+				}
+			]
+		},
+		{
+			"week": 2,
+			"phase": 2,
+			"day": 30,
+			"exercises": [
+				{
+					"type": "Explosive",
+					"exercise": "BB Hang High Pull",
+					"reps": "3-2-1",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/explosive/Hang High Pull.mp4"
+				},
+				{
+					"type": "Core",
+					"exercise": "KB Windmill",
+					"reps": "3 x 8",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/core/rotation/KB Windmill.mp4"
+				},
+				{
+					"type": "Pre-Hab",
+					"exercise": "DB Cuban Press",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/prehab/DB Cuban Press.mp4"
+				},
+				{
+					"type": "Knee Dominant",
+					"exercise": "Drop Lunge",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/knee/Drop Lunge.mp4"
+				},
+				{
+					"type": "Pull",
+					"exercise": "Seated Cable Rows",
+					"reps": "5-4-3",
+					"video": ""
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Active Straight Leg Raise",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Active Straight Leg Raise.mp4"
+				},
+				{
+					"type": "Hip Dominant",
+					"exercise": "BB Single Leg RDL Slide",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/hip/1-Leg RDL Slide.mp4"
+				},
+				{
+					"type": "Push",
+					"exercise": "BB Push Jerk",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/push/vertical/Push Jerk.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Triangle Mobility",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Triangle Mobility Drill.mp4"
+				}
+			]
+		},
+		{
+			"week": 2,
+			"phase": 2,
+			"day": 32,
+			"exercises": [
+				{
+					"type": "Explosive",
+					"exercise": "Band Vertical Jumps",
+					"reps": "3-2-1",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/explosive/Vertical Jumps.mp4"
+				},
+				{
+					"type": "Core",
+					"exercise": "Planks",
+					"reps": "3 x 8",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/core/pillar/Planks.mp4"
+				},
+				{
+					"type": "Pre-Hab",
+					"exercise": "KB Armbar",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/prehab/KB Arm Bar.mp4"
+				},
+				{
+					"type": "Knee Dominant",
+					"exercise": "BB Front Squat",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/knee/Front Squat.mp4"
+				},
+				{
+					"type": "Pull",
+					"exercise": "Pull-ups",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/pull/vertical/Pull Ups.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Bretzel",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Bretzel Mobility.mp4"
+				},
+				{
+					"type": "Hip Dominant",
+					"exercise": "Glute Ham Raise",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/hip/Glute Ham Raise.mp4"
+				},
+				{
+					"type": "Push",
+					"exercise": "BB Bench Press",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/push/horizontal/Bench Press.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Shinbox",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Shinbox.mp4"
+				}
+			]
+		},
+		{
+			"week": 2,
+			"phase": 2,
+			"day": 34,
+			"exercises": [
+				{
+					"type": "Explosive",
+					"exercise": "Seated Box Jump",
+					"reps": "3-2-1",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/explosive/Seated Box Jump.mp4"
+				},
+				{
+					"type": "Core",
+					"exercise": "Landmine(Gym Only)",
+					"reps": "3 x 8",
+					"video": ""
+				},
+				{
+					"type": "Pre-Hab",
+					"exercise": "TRX Alphabet",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/prehab/TRX Alphabet.mp4"
+				},
+				{
+					"type": "Knee Dominant",
+					"exercise": "BB Step Ups",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/knee/Step Ups.mp4"
+				},
+				{
+					"type": "Pull",
+					"exercise": "KB Supported Row",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/pull/horizontal/DB Supported Row.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Quad T-Spine",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Quad T-Spine.mp4"
+				},
+				{
+					"type": "Hip Dominant",
+					"exercise": "KB Band Swing",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/hip/KB Band Swing.mp4"
+				},
+				{
+					"type": "Push",
+					"exercise": "KB Push Press",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/push/vertical/Push Press.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "S2S",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/S2S.mp4"
+				}
+			]
+		},
+		{
+			"week": 3,
+			"phase": 2,
+			"day": 37,
+			"exercises": [
+				{
+					"type": "Explosive",
+					"exercise": "Band Split Jumps",
+					"reps": "3-2-1",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/explosive/Split Jumps.mp4"
+				},
+				{
+					"type": "Core",
+					"exercise": "Side Planks",
+					"reps": "3 x 8",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/core/pillar/Planks.mp4"
+				},
+				{
+					"type": "Pre-Hab",
+					"exercise": "TRX Mobility",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/prehab/TRX Mobility.mp4"
+				},
+				{
+					"type": "Knee Dominant",
+					"exercise": "KB Side Lunge",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/knee/Side Lunge.mp4"
+				},
+				{
+					"type": "Pull",
+					"exercise": "Cable Pulldown",
+					"reps": "5-4-3",
+					"video": ""
+				},
+				{
+					"type": "Mobility",
+					"exercise": "S2S",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/S2S.mp4"
+				},
+				{
+					"type": "Hip Dominant",
+					"exercise": "TRX Shelc",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/hip/TRX Shelc.mp4"
+				},
+				{
+					"type": "Push",
+					"exercise": "TRX Push-up",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/push/horizontal/TRX Pushup.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Quad T-Spine",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Quad T-Spine.mp4"
+				}
+			]
+		},
+		{
+			"week": 1,
+			"phase": 3,
+			"day": 39,
+			"exercises": [
+				{
+					"type": "Explosive",
+					"exercise": "BB Jump Squat",
+					"reps": "3-2-1",
+					"video": "/dist/videos/explosive/BB Jump Squat.mp4"
+				},
+				{
+					"type": "Core",
+					"exercise": "MB Rotation Combo",
+					"reps": "3 x 8",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/core/rotation/Med Ball Rotation Combo.mp4"
+				},
+				{
+					"type": "Pre-Hab",
+					"exercise": "DB Cuban Press",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/prehab/DB Cuban Press.mp4"
+				},
+				{
+					"type": "Knee Dominant",
+					"exercise": "KB Lateral Step Ups",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/knee/Lateral Step Ups.mp4"
+				},
+				{
+					"type": "Pull",
+					"exercise": "Upright Cable Rows",
+					"reps": "5-4-3",
+					"video": ""
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Shinbox",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Shinbox.mp4"
+				},
+				{
+					"type": "Hip Dominant",
+					"exercise": "Slide Shelcs",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/hip/Slide Shelcs.mp4"
+				},
+				{
+					"type": "Push",
+					"exercise": "BB Strict Shoulder Press",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/push/vertical/Strict Shoulder Press.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Bretzel",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Bretzel Mobility.mp4"
+				}
+			]
+		},
+		{
+			"week": 1,
+			"phase": 3,
+			"day": 41,
+			"exercises": [
+				{
+					"type": "Explosive",
+					"exercise": "Band Ice Skater Jumps",
+					"reps": "3-2-1",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/explosive/Ice Skater Jumps.mp4"
+				},
+				{
+					"type": "Core",
+					"exercise": "TRX Body Saws",
+					"reps": "3 x 8",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/core/pillar/TRX Body Saws.mp4"
+				},
+				{
+					"type": "Pre-Hab",
+					"exercise": "KB Armbar",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/prehab/KB Arm Bar.mp4"
+				},
+				{
+					"type": "Knee Dominant",
+					"exercise": "KB RFE Squat",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/knee/RearFootElevatedSandbag.mp4"
+				},
+				{
+					"type": "Pull",
+					"exercise": "Cable Pulldown",
+					"reps": "5-4-3",
+					"video": ""
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Triangle Mobility",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Triangle Mobility Drill.mp4"
+				},
+				{
+					"type": "Hip Dominant",
+					"exercise": "KB Stagger Swing",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/hip/KB Stagger Swing.mp4"
+				},
+				{
+					"type": "Push",
+					"exercise": "DB Alternating Bench Press",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/push/horizontal/Alt DB Bench Press.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Active Straight Leg Raise",
+					"reps": "5-4-3",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Active Straight Leg Raise.mp4"
+				}
+			]
+		},
+		{
+			"week": 1,
+			"phase": 3,
+			"day": 43,
+			"exercises": [
+				{
+					"type": "Explosive",
+					"exercise": "BB Jump Squat",
+					"reps": "4-3-2",
+					"video": "/dist/videos/explosive/BB Jump Squat.mp4"
+				},
+				{
+					"type": "Core",
+					"exercise": "KB Windmill",
+					"reps": "3 x 10",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/core/rotation/KB Windmill.mp4"
+				},
+				{
+					"type": "Pre-Hab",
+					"exercise": "TRX Alphabet",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/prehab/TRX Alphabet.mp4"
+				},
+				{
+					"type": "Knee Dominant",
+					"exercise": "Drop Lunge",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/knee/Drop Lunge.mp4"
+				},
+				{
+					"type": "Pull",
+					"exercise": "Seated Cable Rows",
+					"reps": "3 x 5",
+					"video": ""
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Active Straight Leg Raise",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Active Straight Leg Raise.mp4"
+				},
+				{
+					"type": "Hip Dominant",
+					"exercise": "BB Single Leg RDL Slide",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/hip/1-Leg RDL Slide.mp4"
+				},
+				{
+					"type": "Push",
+					"exercise": "BB Push Jerk",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/push/vertical/Push Jerk.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Triangle Mobility",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Triangle Mobility Drill.mp4"
+				}
+			]
+		},
+		{
+			"week": 2,
+			"phase": 3,
+			"day": 45,
+			"exercises": [
+				{
+					"type": "Explosive",
+					"exercise": "BB Hang Muscle Snatch",
+					"reps": "4-3-2",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/explosive/Hang Muscle Snatch.mp4"
+				},
+				{
+					"type": "Core",
+					"exercise": "TRX Superman",
+					"reps": "3 x 10",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/core/pillar/TRX Superman.mp4"
+				},
+				{
+					"type": "Pre-Hab",
+					"exercise": "TRX Mobility",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/prehab/TRX Mobility.mp4"
+				},
+				{
+					"type": "Knee Dominant",
+					"exercise": "BB Front Squat",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/knee/Front Squat.mp4"
+				},
+				{
+					"type": "Pull",
+					"exercise": "Chin-ups",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/pull/vertical/Chin Ups.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Bretzel",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Bretzel Mobility.mp4"
+				},
+				{
+					"type": "Hip Dominant",
+					"exercise": "Glute Ham Raise",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/hip/Glute Ham Raise.mp4"
+				},
+				{
+					"type": "Push",
+					"exercise": "BB Bench Press",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/push/horizontal/Bench Press.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Shinbox",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Shinbox.mp4"
+				}
+			]
+		},
+		{
+			"week": 2,
+			"phase": 3,
+			"day": 48,
+			"exercises": [
+				{
+					"type": "Explosive",
+					"exercise": "BB Hang High Pull",
+					"reps": "4-3-2",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/explosive/Hang High Pull.mp4"
+				},
+				{
+					"type": "Core",
+					"exercise": "Landmine(Gym Only)",
+					"reps": "3 x 10",
+					"video": ""
+				},
+				{
+					"type": "Pre-Hab",
+					"exercise": "DB Cuban Press",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/prehab/DB Cuban Press.mp4"
+				},
+				{
+					"type": "Knee Dominant",
+					"exercise": "BB Step Ups",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/knee/Step Ups.mp4"
+				},
+				{
+					"type": "Pull",
+					"exercise": "TRX Single Arm Row (advanced)",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/pull/horizontal/TRX Single Arm Row.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "Quad T-Spine",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/Quad T-Spine.mp4"
+				},
+				{
+					"type": "Hip Dominant",
+					"exercise": "KB Band Swing",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/hip/KB Band Swing.mp4"
+				},
+				{
+					"type": "Push",
+					"exercise": "KB Push Press",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/push/vertical/Push Press.mp4"
+				},
+				{
+					"type": "Mobility",
+					"exercise": "S2S",
+					"reps": "3 x 5",
+					"video": "/Users/Dean/GitHub/tennis-training/dist/videos/mobility/S2S.mp4"
+				}
+			]
+		}
+	]
+}
