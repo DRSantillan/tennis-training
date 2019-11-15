@@ -65,6 +65,7 @@
 		align-items: flex-start;
 		align-items: center;
 		border-bottom: solid 1px grey;
+		flex-wrap: wrap;
 
 		&:nth-child(2n + 3) {
 			background-color: $training-component-strength-lighter;

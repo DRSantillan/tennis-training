@@ -1,0 +1,123 @@
+{ "cross": {
+	"days": [
+		{
+			"week": 1,
+			"phase": 1,
+			"day": 3,
+			"type": "Cross Training",
+			"exercise": "Basketball",
+			"duration": "60 minutes",
+			"description": ""
+		},
+		{
+			"week": 1,
+			"phase": 1,
+			"day": 5,
+			"type": "Cross Training",
+			"exercise": "Boxing",
+			"duration": "30 -45 minutes",
+			"description": ""
+		},
+		{
+			"week": 1,
+			"phase": 1,
+			"day": 7,
+			"type": "Cross Training",
+			"exercise": "Basketball",
+			"duration": "60 minutes",
+			"description": ""
+		},
+		{
+			"week": 2,
+			"phase": 1,
+			"day": 10,
+			"type": "Cross Training",
+			"exercise": "Frisbee",
+			"duration": "60 minutes",
+			"description": ""
+		},
+		{
+			"week": 2,
+			"phase": 1,
+			"day": 14,
+			"type": "Cross Training",
+			"exercise": "Soccer",
+			"duration": "60 minutes",
+			"description": ""
+		},
+		{
+			"week": 3,
+			"phase": 1,
+			"day": 17,
+			"type": "Cross Training",
+			"exercise": "Basketball",
+			"duration": "60 minutes",
+			"description": ""
+		},
+		{
+			"week": 3,
+			"phase": 1,
+			"day": 20,
+			"type": "Cross Training",
+			"exercise": "Boxing",
+			"duration": "60 minutes",
+			"description": "   "
+		},
+		{
+			"week": 2,
+			"phase": 2,
+			"day": 33,
+			"type": "Cross Training",
+			"exercise": "Frisbee",
+			"duration": "60 minutes",
+			"description": ""
+		},
+		{
+			"week": 3,
+			"phase": 2,
+			"day": 36,
+			"type": "Cross Training",
+			"exercise": "Basketball",
+			"duration": "60 minutes",
+			"description": ""
+		},
+		{
+			"week": 1,
+			"phase": 3,
+			"day": 40,
+			"type": "Cross Training",
+			"exercise": "Soccer",
+			"duration": "60 minutes",
+			"description": ""
+		},
+		{
+			"week": 1,
+			"phase": 3,
+			"day": 42,
+			"type": "Cross Training",
+			"exercise": "Basketball",
+			"duration": "60 minutes",
+			"description": ""
+		},
+		{
+			"week": 2,
+			"phase": 3,
+			"day": 45,
+			"type": "Cross Training",
+			"exercise": "Basketball",
+			"duration": "60 minutes",
+			"description": ""
+		},
+		{
+			"week": 2,
+			"phase": 3,
+			"day": 47,
+			"type": "Cross Training",
+			"exercise": "Basketball",
+			"duration": "60 minutes",
+			"description": ""
+		}
+	]
+}
+	
+}

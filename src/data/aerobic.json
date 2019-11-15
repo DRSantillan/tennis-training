@@ -1,3 +1,146 @@
 {
-    "content":"tennis content"
+  "aerobics": {
+    "days": [
+      {
+        "week": 1,
+        "phase": 1,
+        "day": 1,
+        "type": "LSD",
+        "exercise": "Run",
+        "duration": "45 minutes",
+        "distance": "10km",
+        "description": "Heart rate around 65%"
+      },
+      {
+        "week": 1,
+        "phase": 1,
+        "day": 4,
+        "type": "Non-Impact Cardio",
+        "exercise": "Bike",
+        "duration": "45 minutes",
+        "distance": "10km",
+        "description": "Heart rate around 60-70%"
+      },
+      {
+        "week": 1,
+        "phase": 1,
+        "day": 6,
+        "type": "Pace / Tempo",
+        "exercise": "Run",
+        "duration": "45 minutes",
+        "distance": "10km",
+        "description": "3 x 3 x 400m"
+      },
+      {
+        "week": 2,
+        "phase": 1,
+        "day": 8,
+        "type": "Non-Impact Cardio",
+        "exercise": "Swim",
+        "duration": "45 minutes",
+        "distance": "10km",
+        "description": "3 x 3 x 100m"
+      },
+      {
+        "week": 2,
+        "phase": 1,
+        "day": 11,
+        "type": "Non-Impact Cardio",
+        "exercise": "Bike",
+        "duration": "45 minutes",
+        "distance": "10km",
+        "description": "Heart rate around 60-70%"
+      },
+      {
+        "week": 2,
+        "phase": 1,
+        "day": 13,
+        "type": "LSD",
+        "exercise": "Run",
+        "duration": "45 minutes",
+        "distance": "10km",
+        "description": "Heart rate around 65%"
+      },
+      {
+        "week": 3,
+        "phase": 1,
+        "day": 15,
+        "type": "Cardio",
+        "exercise": "Skipping",
+        "duration": "45 minutes",
+        "distance": "10km",
+        "description": "Heart rate around 65%"
+      },
+      {
+        "week": 3,
+        "phase": 1,
+        "day": 20,
+        "type": "Pace / Tempo",
+        "exercise": "Run",
+        "duration": "45 minutes",
+        "distance": "10km",
+        "description": "3 x 3 x 400m"
+      },
+      {
+        "week": 1,
+        "phase": 2,
+        "day": 25,
+        "type": "LSD",
+        "exercise": "Run",
+        "duration": "45 minutes",
+        "distance": "10km",
+        "description": "Heart rate around 75%"
+      },
+      {
+        "week": 2,
+        "phase": 2,
+        "day": 32,
+        "type": "Non-Impact Cardio",
+        "exercise": "Swim",
+        "duration": "45 minutes",
+        "distance": "10km",
+        "description": "3 x 3 x 100m"
+      },
+      {
+        "week": 3,
+        "phase": 2,
+        "day": 36,
+        "type": "LSD",
+        "exercise": "Run",
+        "duration": "45 minutes",
+        "distance": "10km",
+        "description": "Heart rate around 75%"
+      },
+      {
+        "week": 3,
+        "phase": 2,
+        "day": 36,
+        "type": "LSD",
+        "exercise": "Run",
+        "duration": "45 minutes",
+        "distance": "10km",
+        "description": "Heart rate around 80%"
+      },
+      {
+        "week": 1,
+        "phase": 3,
+        "day": 41,
+        "type": "Non-Impact Cardio",
+        "exercise": "Swim",
+        "duration": "45 minutes",
+        "distance": "10km",
+        "description": "3 x 3 x 100m"
+      },
+      {
+        "week": 2,
+        "phase": 3,
+        "day": 48,
+        "type": "Cardio",
+        "exercise": "Skipping",
+        "duration": "45 minutes",
+        "distance": "10km",
+        "description": "Heart rate around 65%"
+      }
+    ]
+  }
 }

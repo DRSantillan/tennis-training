@@ -1,191 +1,233 @@
 .training-components {
-	//text-align: center;
-	display: flex;
-	justify-content: center;
-	flex-wrap: wrap;
+  //text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 .training-component {
-	text-align: center;
-	margin: 5px;
-	color: white;
-	outline: none;
-	font-weight: bold;
-	font-size: 1.3rem;
-	padding: 10px;
-	border: none;
-	cursor: pointer;
-	border-radius: 8px;
-	width: 40%;
-	height: 100px;
+  text-align: center;
+  margin: 5px;
+  color: white;
+  outline: none;
+  font-weight: bold;
+  font-size: 1.3rem;
+  padding: 10px;
+  border: none;
+  cursor: pointer;
+  border-radius: 8px;
+  width: 40%;
+  height: 100px;
 
-	transition: background-color 0.3s linear;
-	&--tennis {
-		background-color: $training-component-tennis;
-		border: solid 1px $training-component-tennis;
-		&:hover {
-			border: solid 1px $training-component-tennis;
-			text-align: center;
-			background-color: white;
-			color: $training-component-tennis;
-		}
-		&:active {
-			background-color: $training-component-tennis;
-			color: $white;
-		}
-	}
-	&--aerobic {
-		background-color: $training-component-aerobic;
-		border: solid 1px $training-component-aerobic;
-		&:hover {
-			border: solid 1px $training-component-aerobic;
-			text-align: center;
-			background-color: $white;
-			color: $training-component-aerobic;
-		}
-		&:active {
-			background-color: $training-component-aerobic;
-			color: $white;
-		}
-	}
-	&--anaerobic {
-		background-color: $training-component-anaerobic;
-		border: solid 1px $training-component-anaerobic;
-		&:hover {
-			border: solid 1px $training-component-anaerobic;
-			text-align: center;
-			background-color: $white;
-			color: $training-component-anaerobic;
-		}
-		&:active {
-			background-color: $training-component-anaerobic;
-			color: $white;
-		}
-	}
-	&--strength {
-		background-color: $training-component-strength;
-		border: solid 1px $training-component-strength;
-		&:hover {
-			border: solid 1px $training-component-strength;
-			text-align: center;
-			color: $training-component-strength;
-			background-color: $white;
-		}
-		&:active {
-			background-color: $training-component-strength;
-			color: $white;
-		}
-	}
-	&--core-mobility {
-		background-color: $training-component-core-mobility;
-		border: solid 1px $training-component-core-mobility;
-		&:hover {
-			background-color: $white;
-			border: solid 1px $training-component-core-mobility;
-			text-align: center;
-			color: $training-component-core-mobility;
-		}
-		&:active {
-			background-color: $training-component-core-mobility;
-			color: $white;
-		}
-	}
-	&--cross-training {
-		background-color: $training-component-cross-training;
-		border: solid 1px $training-component-cross-training;
-		&:hover {
-			background-color: $white;
-			border: solid 1px $training-component-cross-training;
-			text-align: center;
-			color: $training-component-cross-training;
-		}
-		&:active {
-			background-color: $training-component-cross-training;
-			color: $white;
-		}
-	}
-	&--activation {
-		background-color: $training-component-activation;
-		border: solid 1px $training-component-activation;
-		&:hover {
-			background-color: $white;
-			border: solid 1px $training-component-activation;
-			text-align: center;
-			color: $training-component-activation;
-		}
-		&:active {
-			background-color: $training-component-activation;
-			color: $white;
-		}
-	}
-	&--recovery {
-		background-color: $training-component-recovery;
-		border: solid 1px $training-component-recovery;
-		&:hover {
-			background-color: $white;
-			border: solid 1px $training-component-recovery;
-			text-align: center;
-			color: $training-component-recovery;
-		}
-		&:active {
-			background-color: $training-component-recovery;
-			color: $white;
-		}
-	}
-	&--rest {
-		background-color: $training-component-rest;
-		border: solid 1px $training-component-rest;
-		&:hover {
-			background-color: $white;
-			border: solid 1px $training-component-rest;
-			text-align: center;
-			color: $training-component-rest;
-		}
-		&:active {
-			background-color: $training-component-rest;
-			color: $white;
-		}
-	}
-	&--speed-agility {
-		background-color: $training-component-speed-agility;
-		border: solid 1px $training-component-speed-agility;
-		&:hover {
-			background-color: $white;
-			border: solid 1px $training-component-speed-agility;
-			text-align: center;
-			color: $training-component-speed-agility;
-		}
-		&:active {
-			background-color: $training-component-speed-agility;
-			color: $white;
-		}
-	}
-	&--tennis-tv {
-		background-color: $training-component-tennis-tv;
-		border: solid 1px $training-component-tennis-tv;
-		&:hover {
-			background-color: $white;
-			border: solid 1px $training-component-tennis-tv;
-			text-align: center;
-			color: $training-component-tennis-tv;
-		}
-		&:active {
-			background-color: $training-component-tennis-tv;
-			color: $white;
-		}
-	}
-	&--life-coach {
-		background-color: $training-component-life-coach;
-		border: solid 1px $training-component-life-coach;
-		&:hover {
-			background-color: $white;
-			border: solid 1px $training-component-life-coach;
-			text-align: center;
-			color: $training-component-tennis;
-		}
-		&:active {
-			background-color: $training-component-life-coach;
-			color: $white;
-		}
-	}
+  transition: background-color 0.3s linear;
+  &--tennis {
+    background-color: $training-component-tennis;
+    border: solid 1px $training-component-tennis;
+    &:hover {
+      border: solid 1px $training-component-tennis;
+      text-align: center;
+      background-color: white;
+      color: $training-component-tennis;
+    }
+    &:active {
+      background-color: $training-component-tennis;
+      color: $white;
+    }
+  }
+  &--injury-prevention {
+    background-color: $training-component-injury-prevention;
+    border: solid 1px $training-component-injury-prevention;
+    &:hover {
+      border: solid 1px $training-component-injury-prevention;
+      text-align: center;
+      background-color: white;
+      color: $training-component-injury-prevention;
+    }
+    &:active {
+      background-color: $training-component-injury-prevention;
+      color: $white;
+    }
+  }
+  &--aerobic {
+    background-color: $training-component-aerobic;
+    border: solid 1px $training-component-aerobic;
+    &:hover {
+      border: solid 1px $training-component-aerobic;
+      text-align: center;
+      background-color: $white;
+      color: $training-component-aerobic;
+    }
+    &:active {
+      background-color: $training-component-aerobic;
+      color: $white;
+    }
+  }
+  &--anaerobic {
+    background-color: $training-component-anaerobic;
+    border: solid 1px $training-component-anaerobic;
+    &:hover {
+      border: solid 1px $training-component-anaerobic;
+      text-align: center;
+      background-color: $white;
+      color: $training-component-anaerobic;
+    }
+    &:active {
+      background-color: $training-component-anaerobic;
+      color: $white;
+    }
+  }
+  &--strength {
+    background-color: $training-component-strength;
+    border: solid 1px $training-component-strength;
+    &:hover {
+      border: solid 1px $training-component-strength;
+      text-align: center;
+      color: $training-component-strength;
+      background-color: $white;
+    }
+    &:active {
+      background-color: $training-component-strength;
+      color: $white;
+    }
+  }
+  &--core-stability {
+    background-color: $training-component-core-stability;
+    border: solid 1px $training-component-core-stability;
+    &:hover {
+      background-color: $white;
+      border: solid 1px $training-component-core-stability;
+      text-align: center;
+      color: $training-component-core-stability;
+    }
+    &:active {
+      background-color: $training-component-core-stability;
+      color: $white;
+    }
+  }
+  &--flexibility {
+    background-color: $training-component-flexibility;
+    border: solid 1px $training-component-flexibility;
+    &:hover {
+      background-color: $white;
+      border: solid 1px $training-component-flexibility;
+      text-align: center;
+      color: $training-component-flexibility;
+    }
+    &:active {
+      background-color: $training-component-flexibility;
+      color: $white;
+    }
+  }
+  &--cross-training {
+    background-color: $training-component-cross-training;
+    border: solid 1px $training-component-cross-training;
+    &:hover {
+      background-color: $white;
+      border: solid 1px $training-component-cross-training;
+      text-align: center;
+      color: $training-component-cross-training;
+    }
+    &:active {
+      background-color: $training-component-cross-training;
+      color: $white;
+    }
+  }
+  &--activation {
+    background-color: $training-component-activation;
+    border: solid 1px $training-component-activation;
+    &:hover {
+      background-color: $white;
+      border: solid 1px $training-component-activation;
+      text-align: center;
+      color: $training-component-activation;
+    }
+    &:active {
+      background-color: $training-component-activation;
+      color: $white;
+    }
+  }
+  &--recovery {
+    background-color: $training-component-recovery;
+    border: solid 1px $training-component-recovery;
+    &:hover {
+      background-color: $white;
+      border: solid 1px $training-component-recovery;
+      text-align: center;
+      color: $training-component-recovery;
+    }
+    &:active {
+      background-color: $training-component-recovery;
+      color: $white;
+    }
+  }
+  &--day-off {
+    background-color: $training-component-day-off;
+    border: solid 1px $training-component-day-off;
+    &:hover {
+      background-color: $white;
+      border: solid 1px $training-component-day-off;
+      text-align: center;
+      color: $training-component-day-off;
+    }
+    &:active {
+      background-color: $training-component-day-off;
+      color: $white;
+    }
+  }
+  &--speed-agility {
+    background-color: $training-component-speed-agility;
+    border: solid 1px $training-component-speed-agility;
+    &:hover {
+      background-color: $white;
+      border: solid 1px $training-component-speed-agility;
+      text-align: center;
+      color: $training-component-speed-agility;
+    }
+    &:active {
+      background-color: $training-component-speed-agility;
+      color: $white;
+    }
+  }
+  &--tennis-tv {
+    background-color: $training-component-tennis-tv;
+    border: solid 1px $training-component-tennis-tv;
+    &:hover {
+      background-color: $white;
+      border: solid 1px $training-component-tennis-tv;
+      text-align: center;
+      color: $training-component-tennis-tv;
+    }
+    &:active {
+      background-color: $training-component-tennis-tv;
+      color: $white;
+    }
+  }
+  &--life-coach {
+    background-color: $training-component-life-coach;
+    border: solid 1px $training-component-life-coach;
+    &:hover {
+      background-color: $white;
+      border: solid 1px $training-component-life-coach;
+      text-align: center;
+      color: $training-component-tennis;
+    }
+    &:active {
+      background-color: $training-component-life-coach;
+      color: $white;
+    }
+  }
+  &--plyometrics {
+    background-color: $training-component-plyometrics;
+    border: solid 1px $training-component-plyometrics;
+    &:hover {
+      border: solid 1px $training-component-plyometrics;
+      text-align: center;
+      background-color: $white;
+      color: $training-component-plyometrics;
+    }
+    &:active {
+      background-color: $training-component-plyometrics;
+      color: $white;
+    }
+  }
 }

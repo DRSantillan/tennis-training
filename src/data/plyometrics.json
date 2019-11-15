@@ -1,0 +1,643 @@
+{
+  "plyometrics": {
+    "days": [
+      {
+        "week": 2,
+        "phase": 1,
+        "day": 11,
+        "exercises": [
+          {
+            "type": "Cardio",
+            "exercise": "Run",
+            "reps": "15 minutes",
+            "video": "",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Foam Roll",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Foam Rolling.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "KB Complex",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/KB Complex.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Mini Band",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Mini Band Activation.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Spiderman Crawl",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Spiderman Crawl.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Turkish Getup",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/TGU.mp4",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "phase": 1,
+        "day": 13,
+        "exercises": [
+          {
+            "type": "Cardio",
+            "exercise": "Skip",
+            "reps": "10 minutes",
+            "video": "",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Foam Roll",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Foam Rolling.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "KB Complex",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/KB Complex.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Mini Band",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Mini Band Activation.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Spiderman Crawl",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Spiderman Crawl.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Turkish Getup",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/TGU.mp4",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "week": 3,
+        "phase": 1,
+        "day": 18,
+        "exercises": [
+          {
+            "type": "Cardio",
+            "exercise": "Bike",
+            "reps": "15 minutes",
+            "video": "",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Foam Roll",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Foam Rolling.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "KB Complex",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/KB Complex.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Mini Band",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Mini Band Activation.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Spiderman Crawl",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Spiderman Crawl.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Turkish Getup",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/TGU.mp4",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "phase": 2,
+        "day": 22,
+        "exercises": [
+          {
+            "type": "Cardio",
+            "exercise": "Run",
+            "reps": "15 minutes",
+            "video": "",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Foam Roll",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Foam Rolling.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "KB Complex",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/KB Complex.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Mini Band",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Mini Band Activation.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Spiderman Crawl",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Spiderman Crawl.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Turkish Getup",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/TGU.mp4",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "phase": 2,
+        "day": 25,
+        "exercises": [
+          {
+            "type": "Cardio",
+            "exercise": "Skip",
+            "reps": "15 minutes",
+            "video": "",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Foam Roll",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Foam Rolling.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "KB Complex",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/KB Complex.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Mini Band",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Mini Band Activation.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Spiderman Crawl",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Spiderman Crawl.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Turkish Getup",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/TGU.mp4",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "phase": 2,
+        "day": 27,
+        "exercises": [
+          {
+            "type": "Cardio",
+            "exercise": "Bike",
+            "reps": "15 minutes",
+            "video": "",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Foam Roll",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Foam Rolling.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "KB Complex",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/KB Complex.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Mini Band",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Mini Band Activation.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Spiderman Crawl",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Spiderman Crawl.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Turkish Getup",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/TGU.mp4",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "phase": 2,
+        "day": 29,
+        "exercises": [
+          {
+            "type": "Cardio",
+            "exercise": "Run",
+            "reps": "15 minutes",
+            "video": "",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Foam Roll",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Foam Rolling.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "KB Complex",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/KB Complex.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Mini Band",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Mini Band Activation.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Spiderman Crawl",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Spiderman Crawl.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Turkish Getup",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/TGU.mp4",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "phase": 2,
+        "day": 32,
+        "exercises": [
+          {
+            "type": "Cardio",
+            "exercise": "Bike",
+            "reps": "15 minutes",
+            "video": "",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Foam Roll",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Foam Rolling.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "KB Complex",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/KB Complex.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Mini Band",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Mini Band Activation.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Spiderman Crawl",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Spiderman Crawl.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Turkish Getup",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/TGU.mp4",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "phase": 3,
+        "day": 39,
+        "exercises": [
+          {
+            "type": "Cardio",
+            "exercise": "Run",
+            "reps": "15 minutes",
+            "video": "",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Foam Roll",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Foam Rolling.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "KB Complex",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/KB Complex.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Mini Band",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Mini Band Activation.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Spiderman Crawl",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Spiderman Crawl.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Turkish Getup",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/TGU.mp4",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "phase": 3,
+        "day": 41,
+        "exercises": [
+          {
+            "type": "Cardio",
+            "exercise": "Skip",
+            "reps": "15 minutes",
+            "video": "",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Foam Roll",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Foam Rolling.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "KB Complex",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/KB Complex.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Mini Band",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Mini Band Activation.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Spiderman Crawl",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Spiderman Crawl.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Turkish Getup",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/TGU.mp4",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "phase": 3,
+        "day": 43,
+        "exercises": [
+          {
+            "type": "Cardio",
+            "exercise": "Skip",
+            "reps": "15 minutes",
+            "video": "",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Foam Roll",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Foam Rolling.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "KB Complex",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/KB Complex.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Mini Band",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Mini Band Activation.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Spiderman Crawl",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Spiderman Crawl.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Turkish Getup",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/TGU.mp4",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "phase": 3,
+        "day": 46,
+        "exercises": [
+          {
+            "type": "Cardio",
+            "exercise": "Bike",
+            "reps": "15 minutes",
+            "video": "",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Foam Roll",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Foam Rolling.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "KB Complex",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/KB Complex.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Mini Band",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Mini Band Activation.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Spiderman Crawl",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Spiderman Crawl.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Turkish Getup",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/TGU.mp4",
+            "description": ""
+          }
+        ]
+      },
+      {
+        "week": 2,
+        "phase": 3,
+        "day": 48,
+        "exercises": [
+          {
+            "type": "Cardio",
+            "exercise": "Run",
+            "reps": "15 minutes",
+            "video": "",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Foam Roll",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Foam Rolling.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "KB Complex",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/KB Complex.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Mini Band",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Mini Band Activation.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Spiderman Crawl",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/Spiderman Crawl.mp4",
+            "description": ""
+          },
+          {
+            "type": "Activation",
+            "exercise": "Turkish Getup",
+            "reps": "5 x",
+            "video": "/dist/videos/activation/TGU.mp4",
+            "description": ""
+          }
+        ]
+      }
+    ]
+  }
+}

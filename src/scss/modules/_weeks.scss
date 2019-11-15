@@ -1,7 +1,7 @@
 .weeks {
-	text-align: center;
+	
 	&__btn {
-		width: 90%;
+		width: 100%;
 		text-align: left;
 		outline: none;
 		font-weight: bold;
@@ -10,7 +10,7 @@
 
 		border-radius: 8px;
 		cursor: pointer;
-		margin: 10px;
+		margin: 5px 5px;
 		transition: all 0.3s ease-in-out;
 
 		&--phase-one {
