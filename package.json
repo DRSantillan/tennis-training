@@ -1,0 +1,26 @@
+{
+  "name": "tennis-training",
+  "version": "1.0.0",
+  "description": "tennis training manager for ATP Professional",
+  "main": "index.js",
+  "repository": "git@github.com:DRSantillan/tennis-training.git",
+  "author": "Dean <gaijincoach@hotmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "babel": "./node_modules/.bin/babel src -d dist",
+    "dev": "webpack --watch --mode=development"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.7.0",
+    "@babel/core": "^7.7.2",
+    "@babel/plugin-proposal-class-properties": "^7.7.0",
+    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
+    "@babel/preset-env": "^7.7.1",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.7.0"
+  }
+}

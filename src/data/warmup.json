@@ -1,1411 +1,1411 @@
 {
-"days": [
-{
-    "week": 1,
-    "phase": 1,
-    "day": 1,
-    "exercises": [
+  "days": [
     {
-        "type": "Dynamic Warm-up",
-        "exercise": "180 Side Squats",
-        "reps": "5 x Per Side",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/180 Side Squats.mp4"
+      "week": 1,
+      "phase": 1,
+      "day": 1,
+      "exercises": [
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "180 Side Squats",
+          "reps": "5 x Per Side",
+          "video": "/dist/videos/warmup/180 Side Squats.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "A Skips",
+          "reps": "5 x 5",
+          "video": "/dist/videos/warmup/A Skips.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Atlas Lunge",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Atlas Lunge.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Closing The Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Closing The Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Karaoke Step-over",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Karaoke Stepover.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Knee Hugs",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Knee Hugs.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Leg Swings",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Leg Swings.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Light Jog Exaggerated",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Light Jog Exaggerated.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Open Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Open Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Single Leg RDL Walks",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Single Leg RDL Walks.mp4"
+        }
+      ]
     },
     {
-        "type": "Dynamic Warm-up",
-        "exercise": "A Skips",
-        "reps": "5 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/A Skips.mp4"
+      "week": 1,
+      "phase": 1,
+      "day": 3,
+      "exercises": [
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "180 Side Squats",
+          "reps": "5 x Per Side",
+          "video": "/dist/videos/warmup/180 Side Squats.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "A Skips",
+          "reps": "5 x 5",
+          "video": "/dist/videos/warmup/A Skips.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Atlas Lunge",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Atlas Lunge.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Closing The Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Closing The Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Karaoke Step-over",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Karaoke Stepover.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Knee Hugs",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Knee Hugs.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Leg Swings",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Leg Swings.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Light Jog Exaggerated",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Light Jog Exaggerated.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Open Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Open Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Single Leg RDL Walks",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Single Leg RDL Walks.mp4"
+        }
+      ]
     },
     {
-        "type": "Dynamic Warm-up",
-        "exercise": "Atlas Lunge",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Atlas Lunge.mp4"
+      "week": 1,
+      "phase": 1,
+      "day": 5,
+      "exercises": [
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "180 Side Squats",
+          "reps": "5 x Per Side",
+          "video": "/dist/videos/warmup/180 Side Squats.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "A Skips",
+          "reps": "5 x 5",
+          "video": "/dist/videos/warmup/A Skips.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Atlas Lunge",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Atlas Lunge.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Closing The Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Closing The Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Karaoke Step-over",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Karaoke Stepover.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Knee Hugs",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Knee Hugs.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Leg Swings",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Leg Swings.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Light Jog Exaggerated",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Light Jog Exaggerated.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Open Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Open Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Single Leg RDL Walks",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Single Leg RDL Walks.mp4"
+        }
+      ]
     },
     {
-        "type": "Dynamic Warm-up",
-        "exercise": "Closing The Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Closing The Door.mp4"
+      "week": 2,
+      "phase": 1,
+      "day": 9,
+      "exercises": [
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "180 Side Squats",
+          "reps": "5 x Per Side",
+          "video": "/dist/videos/warmup/180 Side Squats.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "A Skips",
+          "reps": "5 x 5",
+          "video": "/dist/videos/warmup/A Skips.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Atlas Lunge",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Atlas Lunge.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Closing The Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Closing The Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Karaoke Step-over",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Karaoke Stepover.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Knee Hugs",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Knee Hugs.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Leg Swings",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Leg Swings.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Light Jog Exaggerated",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Light Jog Exaggerated.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Open Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Open Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Single Leg RDL Walks",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Single Leg RDL Walks.mp4"
+        }
+      ]
     },
     {
-        "type": "Dynamic Warm-up",
-        "exercise": "Karaoke Step-over",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Karaoke Stepover.mp4"
+      "week": 2,
+      "phase": 1,
+      "day": 11,
+      "exercises": [
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "180 Side Squats",
+          "reps": "5 x Per Side",
+          "video": "/dist/videos/warmup/180 Side Squats.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "A Skips",
+          "reps": "5 x 5",
+          "video": "/dist/videos/warmup/A Skips.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Atlas Lunge",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Atlas Lunge.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Closing The Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Closing The Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Karaoke Step-over",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Karaoke Stepover.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Knee Hugs",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Knee Hugs.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Leg Swings",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Leg Swings.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Light Jog Exaggerated",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Light Jog Exaggerated.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Open Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Open Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Single Leg RDL Walks",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Single Leg RDL Walks.mp4"
+        }
+      ]
     },
     {
-        "type": "Dynamic Warm-up",
-        "exercise": "Knee Hugs",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Knee Hugs.mp4"
+      "week": 2,
+      "phase": 1,
+      "day": 13,
+      "exercises": [
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "180 Side Squats",
+          "reps": "5 x Per Side",
+          "video": "/dist/videos/warmup/180 Side Squats.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "A Skips",
+          "reps": "5 x 5",
+          "video": "/dist/videos/warmup/A Skips.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Atlas Lunge",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Atlas Lunge.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Closing The Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Closing The Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Karaoke Step-over",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Karaoke Stepover.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Knee Hugs",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Knee Hugs.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Leg Swings",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Leg Swings.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Light Jog Exaggerated",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Light Jog Exaggerated.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Open Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Open Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Single Leg RDL Walks",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Single Leg RDL Walks.mp4"
+        }
+      ]
     },
     {
-        "type": "Dynamic Warm-up",
-        "exercise": "Leg Swings",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Leg Swings.mp4"
+      "week": 3,
+      "phase": 1,
+      "day": 15,
+      "exercises": [
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "180 Side Squats",
+          "reps": "5 x Per Side",
+          "video": "/dist/videos/warmup/180 Side Squats.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "A Skips",
+          "reps": "5 x 5",
+          "video": "/dist/videos/warmup/A Skips.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Atlas Lunge",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Atlas Lunge.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Closing The Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Closing The Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Karaoke Step-over",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Karaoke Stepover.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Knee Hugs",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Knee Hugs.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Leg Swings",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Leg Swings.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Light Jog Exaggerated",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Light Jog Exaggerated.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Open Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Open Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Single Leg RDL Walks",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Single Leg RDL Walks.mp4"
+        }
+      ]
     },
     {
-        "type": "Dynamic Warm-up",
-        "exercise": "Light Jog Exaggerated",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Light Jog Exaggerated.mp4"
+      "week": 3,
+      "phase": 1,
+      "day": 17,
+      "exercises": [
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "180 Side Squats",
+          "reps": "5 x Per Side",
+          "video": "/dist/videos/warmup/180 Side Squats.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "A Skips",
+          "reps": "5 x 5",
+          "video": "/dist/videos/warmup/A Skips.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Atlas Lunge",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Atlas Lunge.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Closing The Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Closing The Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Karaoke Step-over",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Karaoke Stepover.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Knee Hugs",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Knee Hugs.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Leg Swings",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Leg Swings.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Light Jog Exaggerated",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Light Jog Exaggerated.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Open Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Open Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Single Leg RDL Walks",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Single Leg RDL Walks.mp4"
+        }
+      ]
     },
     {
-        "type": "Dynamic Warm-up",
-        "exercise": "Open Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Open Door.mp4"
+      "week": 3,
+      "phase": 1,
+      "day": 19,
+      "exercises": [
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "180 Side Squats",
+          "reps": "5 x Per Side",
+          "video": "/dist/videos/warmup/180 Side Squats.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "A Skips",
+          "reps": "5 x 5",
+          "video": "/dist/videos/warmup/A Skips.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Atlas Lunge",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Atlas Lunge.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Closing The Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Closing The Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Karaoke Step-over",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Karaoke Stepover.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Knee Hugs",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Knee Hugs.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Leg Swings",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Leg Swings.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Light Jog Exaggerated",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Light Jog Exaggerated.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Open Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Open Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Single Leg RDL Walks",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Single Leg RDL Walks.mp4"
+        }
+      ]
     },
     {
-        "type": "Dynamic Warm-up",
-        "exercise": "Single Leg RDL Walks",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Single Leg RDL Walks.mp4"
+      "week": 1,
+      "phase": 2,
+      "day": 22,
+      "exercises": [
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "180 Side Squats",
+          "reps": "5 x Per Side",
+          "video": "/dist/videos/warmup/180 Side Squats.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "A Skips",
+          "reps": "5 x 5",
+          "video": "/dist/videos/warmup/A Skips.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Atlas Lunge",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Atlas Lunge.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Closing The Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Closing The Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Karaoke Step-over",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Karaoke Stepover.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Knee Hugs",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Knee Hugs.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Leg Swings",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Leg Swings.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Light Jog Exaggerated",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Light Jog Exaggerated.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Open Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Open Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Single Leg RDL Walks",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Single Leg RDL Walks.mp4"
+        }
+      ]
+    },
+    {
+      "week": 1,
+      "phase": 2,
+      "day": 24,
+      "exercises": [
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "180 Side Squats",
+          "reps": "5 x Per Side",
+          "video": "/dist/videos/warmup/180 Side Squats.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "A Skips",
+          "reps": "5 x 5",
+          "video": "/dist/videos/warmup/A Skips.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Atlas Lunge",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Atlas Lunge.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Closing The Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Closing The Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Karaoke Step-over",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Karaoke Stepover.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Knee Hugs",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Knee Hugs.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Leg Swings",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Leg Swings.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Light Jog Exaggerated",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Light Jog Exaggerated.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Open Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Open Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Single Leg RDL Walks",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Single Leg RDL Walks.mp4"
+        }
+      ]
+    },
+    {
+      "week": 1,
+      "phase": 2,
+      "day": 26,
+      "exercises": [
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "180 Side Squats",
+          "reps": "5 x Per Side",
+          "video": "/dist/videos/warmup/180 Side Squats.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "A Skips",
+          "reps": "5 x 5",
+          "video": "/dist/videos/warmup/A Skips.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Atlas Lunge",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Atlas Lunge.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Closing The Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Closing The Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Karaoke Step-over",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Karaoke Stepover.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Knee Hugs",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Knee Hugs.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Leg Swings",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Leg Swings.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Light Jog Exaggerated",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Light Jog Exaggerated.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Open Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Open Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Single Leg RDL Walks",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Single Leg RDL Walks.mp4"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "phase": 2,
+      "day": 30,
+      "exercises": [
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "180 Side Squats",
+          "reps": "5 x Per Side",
+          "video": "/dist/videos/warmup/180 Side Squats.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "A Skips",
+          "reps": "5 x 5",
+          "video": "/dist/videos/warmup/A Skips.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Atlas Lunge",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Atlas Lunge.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Closing The Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Closing The Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Karaoke Step-over",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Karaoke Stepover.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Knee Hugs",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Knee Hugs.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Leg Swings",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Leg Swings.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Light Jog Exaggerated",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Light Jog Exaggerated.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Open Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Open Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Single Leg RDL Walks",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Single Leg RDL Walks.mp4"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "phase": 2,
+      "day": 32,
+      "exercises": [
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "180 Side Squats",
+          "reps": "5 x Per Side",
+          "video": "/dist/videos/warmup/180 Side Squats.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "A Skips",
+          "reps": "5 x 5",
+          "video": "/dist/videos/warmup/A Skips.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Atlas Lunge",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Atlas Lunge.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Closing The Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Closing The Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Karaoke Step-over",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Karaoke Stepover.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Knee Hugs",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Knee Hugs.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Leg Swings",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Leg Swings.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Light Jog Exaggerated",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Light Jog Exaggerated.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Open Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Open Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Single Leg RDL Walks",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Single Leg RDL Walks.mp4"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "phase": 2,
+      "day": 34,
+      "exercises": [
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "180 Side Squats",
+          "reps": "5 x Per Side",
+          "video": "/dist/videos/warmup/180 Side Squats.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "A Skips",
+          "reps": "5 x 5",
+          "video": "/dist/videos/warmup/A Skips.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Atlas Lunge",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Atlas Lunge.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Closing The Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Closing The Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Karaoke Step-over",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Karaoke Stepover.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Knee Hugs",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Knee Hugs.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Leg Swings",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Leg Swings.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Light Jog Exaggerated",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Light Jog Exaggerated.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Open Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Open Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Single Leg RDL Walks",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Single Leg RDL Walks.mp4"
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "phase": 2,
+      "day": 37,
+      "exercises": [
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "180 Side Squats",
+          "reps": "5 x Per Side",
+          "video": "/dist/videos/warmup/180 Side Squats.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "A Skips",
+          "reps": "5 x 5",
+          "video": "/dist/videos/warmup/A Skips.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Atlas Lunge",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Atlas Lunge.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Closing The Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Closing The Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Karaoke Step-over",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Karaoke Stepover.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Knee Hugs",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Knee Hugs.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Leg Swings",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Leg Swings.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Light Jog Exaggerated",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Light Jog Exaggerated.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Open Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Open Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Single Leg RDL Walks",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Single Leg RDL Walks.mp4"
+        }
+      ]
+    },
+    {
+      "week": 1,
+      "phase": 3,
+      "day": 39,
+      "exercises": [
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "180 Side Squats",
+          "reps": "5 x Per Side",
+          "video": "/dist/videos/warmup/180 Side Squats.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "A Skips",
+          "reps": "5 x 5",
+          "video": "/dist/videos/warmup/A Skips.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Atlas Lunge",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Atlas Lunge.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Closing The Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Closing The Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Karaoke Step-over",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Karaoke Stepover.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Knee Hugs",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Knee Hugs.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Leg Swings",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Leg Swings.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Light Jog Exaggerated",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Light Jog Exaggerated.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Open Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Open Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Single Leg RDL Walks",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Single Leg RDL Walks.mp4"
+        }
+      ]
+    },
+    {
+      "week": 1,
+      "phase": 3,
+      "day": 41,
+      "exercises": [
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "180 Side Squats",
+          "reps": "5 x Per Side",
+          "video": "/dist/videos/warmup/180 Side Squats.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "A Skips",
+          "reps": "5 x 5",
+          "video": "/dist/videos/warmup/A Skips.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Atlas Lunge",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Atlas Lunge.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Closing The Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Closing The Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Karaoke Step-over",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Karaoke Stepover.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Knee Hugs",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Knee Hugs.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Leg Swings",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Leg Swings.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Light Jog Exaggerated",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Light Jog Exaggerated.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Open Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Open Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Single Leg RDL Walks",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Single Leg RDL Walks.mp4"
+        }
+      ]
+    },
+    {
+      "week": 1,
+      "phase": 3,
+      "day": 43,
+      "exercises": [
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "180 Side Squats",
+          "reps": "5 x Per Side",
+          "video": "/dist/videos/warmup/180 Side Squats.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "A Skips",
+          "reps": "5 x 5",
+          "video": "/dist/videos/warmup/A Skips.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Atlas Lunge",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Atlas Lunge.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Closing The Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Closing The Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Karaoke Step-over",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Karaoke Stepover.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Knee Hugs",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Knee Hugs.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Leg Swings",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Leg Swings.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Light Jog Exaggerated",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Light Jog Exaggerated.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Open Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Open Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Single Leg RDL Walks",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Single Leg RDL Walks.mp4"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "phase": 3,
+      "day": 45,
+      "exercises": [
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "180 Side Squats",
+          "reps": "5 x Per Side",
+          "video": "/dist/videos/warmup/180 Side Squats.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "A Skips",
+          "reps": "5 x 5",
+          "video": "/dist/videos/warmup/A Skips.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Atlas Lunge",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Atlas Lunge.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Closing The Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Closing The Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Karaoke Step-over",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Karaoke Stepover.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Knee Hugs",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Knee Hugs.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Leg Swings",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Leg Swings.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Light Jog Exaggerated",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Light Jog Exaggerated.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Open Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Open Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Single Leg RDL Walks",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Single Leg RDL Walks.mp4"
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "phase": 3,
+      "day": 48,
+      "exercises": [
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "180 Side Squats",
+          "reps": "5 x Per Side",
+          "video": "/dist/videos/warmup/180 Side Squats.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "A Skips",
+          "reps": "5 x 5",
+          "video": "/dist/videos/warmup/A Skips.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Atlas Lunge",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Atlas Lunge.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Closing The Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Closing The Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Karaoke Step-over",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Karaoke Stepover.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Knee Hugs",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Knee Hugs.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Leg Swings",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Leg Swings.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Light Jog Exaggerated",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Light Jog Exaggerated.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Open Door",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Open Door.mp4"
+        },
+        {
+          "type": "Dynamic Warm-up",
+          "exercise": "Single Leg RDL Walks",
+          "reps": "3 x 5",
+          "video": "/dist/videos/warmup/Single Leg RDL Walks.mp4"
+        }
+      ]
     }
-    ]
-},
-{
-    "week": 1,
-    "phase": 1,
-    "day": 3,
-    "exercises": [
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "180 Side Squats",
-        "reps": "5 x Per Side",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/180 Side Squats.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "A Skips",
-        "reps": "5 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/A Skips.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Atlas Lunge",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Atlas Lunge.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Closing The Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Closing The Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Karaoke Step-over",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Karaoke Stepover.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Knee Hugs",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Knee Hugs.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Leg Swings",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Leg Swings.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Light Jog Exaggerated",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Light Jog Exaggerated.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Open Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Open Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Single Leg RDL Walks",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Single Leg RDL Walks.mp4"
-    }
-    ]
-},
-{
-    "week": 1,
-    "phase": 1,
-    "day": 5,
-    "exercises": [
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "180 Side Squats",
-        "reps": "5 x Per Side",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/180 Side Squats.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "A Skips",
-        "reps": "5 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/A Skips.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Atlas Lunge",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Atlas Lunge.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Closing The Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Closing The Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Karaoke Step-over",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Karaoke Stepover.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Knee Hugs",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Knee Hugs.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Leg Swings",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Leg Swings.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Light Jog Exaggerated",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Light Jog Exaggerated.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Open Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Open Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Single Leg RDL Walks",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Single Leg RDL Walks.mp4"
-    }
-    ]
-},
-{
-    "week": 2,
-    "phase": 1,
-    "day": 9,
-    "exercises": [
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "180 Side Squats",
-        "reps": "5 x Per Side",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/180 Side Squats.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "A Skips",
-        "reps": "5 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/A Skips.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Atlas Lunge",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Atlas Lunge.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Closing The Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Closing The Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Karaoke Step-over",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Karaoke Stepover.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Knee Hugs",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Knee Hugs.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Leg Swings",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Leg Swings.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Light Jog Exaggerated",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Light Jog Exaggerated.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Open Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Open Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Single Leg RDL Walks",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Single Leg RDL Walks.mp4"
-    }
-    ]
-},
-{
-    "week": 2,
-    "phase": 1,
-    "day": 11,
-    "exercises": [
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "180 Side Squats",
-        "reps": "5 x Per Side",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/180 Side Squats.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "A Skips",
-        "reps": "5 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/A Skips.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Atlas Lunge",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Atlas Lunge.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Closing The Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Closing The Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Karaoke Step-over",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Karaoke Stepover.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Knee Hugs",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Knee Hugs.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Leg Swings",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Leg Swings.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Light Jog Exaggerated",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Light Jog Exaggerated.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Open Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Open Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Single Leg RDL Walks",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Single Leg RDL Walks.mp4"
-    }
-    ]
-},
-{
-    "week": 2,
-    "phase": 1,
-    "day": 13,
-    "exercises": [
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "180 Side Squats",
-        "reps": "5 x Per Side",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/180 Side Squats.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "A Skips",
-        "reps": "5 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/A Skips.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Atlas Lunge",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Atlas Lunge.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Closing The Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Closing The Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Karaoke Step-over",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Karaoke Stepover.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Knee Hugs",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Knee Hugs.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Leg Swings",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Leg Swings.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Light Jog Exaggerated",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Light Jog Exaggerated.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Open Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Open Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Single Leg RDL Walks",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Single Leg RDL Walks.mp4"
-    }
-    ]
-},
-{
-    "week": 3,
-    "phase": 1,
-    "day": 15,
-    "exercises": [
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "180 Side Squats",
-        "reps": "5 x Per Side",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/180 Side Squats.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "A Skips",
-        "reps": "5 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/A Skips.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Atlas Lunge",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Atlas Lunge.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Closing The Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Closing The Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Karaoke Step-over",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Karaoke Stepover.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Knee Hugs",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Knee Hugs.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Leg Swings",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Leg Swings.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Light Jog Exaggerated",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Light Jog Exaggerated.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Open Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Open Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Single Leg RDL Walks",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Single Leg RDL Walks.mp4"
-    }
-    ]
-},
-{
-    "week": 3,
-    "phase": 1,
-    "day": 17,
-    "exercises": [
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "180 Side Squats",
-        "reps": "5 x Per Side",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/180 Side Squats.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "A Skips",
-        "reps": "5 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/A Skips.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Atlas Lunge",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Atlas Lunge.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Closing The Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Closing The Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Karaoke Step-over",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Karaoke Stepover.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Knee Hugs",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Knee Hugs.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Leg Swings",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Leg Swings.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Light Jog Exaggerated",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Light Jog Exaggerated.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Open Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Open Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Single Leg RDL Walks",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Single Leg RDL Walks.mp4"
-    }
-    ]
-},
-{
-    "week": 3,
-    "phase": 1,
-    "day": 19,
-    "exercises": [
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "180 Side Squats",
-        "reps": "5 x Per Side",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/180 Side Squats.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "A Skips",
-        "reps": "5 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/A Skips.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Atlas Lunge",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Atlas Lunge.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Closing The Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Closing The Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Karaoke Step-over",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Karaoke Stepover.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Knee Hugs",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Knee Hugs.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Leg Swings",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Leg Swings.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Light Jog Exaggerated",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Light Jog Exaggerated.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Open Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Open Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Single Leg RDL Walks",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Single Leg RDL Walks.mp4"
-    }
-    ]
-},
-{
-    "week": 1,
-    "phase": 2,
-    "day": 22,
-    "exercises": [
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "180 Side Squats",
-        "reps": "5 x Per Side",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/180 Side Squats.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "A Skips",
-        "reps": "5 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/A Skips.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Atlas Lunge",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Atlas Lunge.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Closing The Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Closing The Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Karaoke Step-over",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Karaoke Stepover.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Knee Hugs",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Knee Hugs.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Leg Swings",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Leg Swings.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Light Jog Exaggerated",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Light Jog Exaggerated.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Open Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Open Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Single Leg RDL Walks",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Single Leg RDL Walks.mp4"
-    }
-    ]
-},
-{
-    "week": 1,
-    "phase": 2,
-    "day": 24,
-    "exercises": [
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "180 Side Squats",
-        "reps": "5 x Per Side",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/180 Side Squats.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "A Skips",
-        "reps": "5 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/A Skips.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Atlas Lunge",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Atlas Lunge.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Closing The Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Closing The Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Karaoke Step-over",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Karaoke Stepover.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Knee Hugs",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Knee Hugs.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Leg Swings",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Leg Swings.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Light Jog Exaggerated",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Light Jog Exaggerated.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Open Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Open Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Single Leg RDL Walks",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Single Leg RDL Walks.mp4"
-    }
-    ]
-},
-{
-    "week": 1,
-    "phase": 2,
-    "day": 26,
-    "exercises": [
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "180 Side Squats",
-        "reps": "5 x Per Side",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/180 Side Squats.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "A Skips",
-        "reps": "5 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/A Skips.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Atlas Lunge",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Atlas Lunge.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Closing The Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Closing The Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Karaoke Step-over",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Karaoke Stepover.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Knee Hugs",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Knee Hugs.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Leg Swings",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Leg Swings.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Light Jog Exaggerated",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Light Jog Exaggerated.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Open Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Open Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Single Leg RDL Walks",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Single Leg RDL Walks.mp4"
-    }
-    ]
-},
-{
-    "week": 2,
-    "phase": 2,
-    "day": 30,
-    "exercises": [
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "180 Side Squats",
-        "reps": "5 x Per Side",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/180 Side Squats.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "A Skips",
-        "reps": "5 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/A Skips.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Atlas Lunge",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Atlas Lunge.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Closing The Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Closing The Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Karaoke Step-over",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Karaoke Stepover.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Knee Hugs",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Knee Hugs.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Leg Swings",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Leg Swings.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Light Jog Exaggerated",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Light Jog Exaggerated.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Open Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Open Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Single Leg RDL Walks",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Single Leg RDL Walks.mp4"
-    }
-    ]
-},
-{
-    "week": 2,
-    "phase": 2,
-    "day": 32,
-    "exercises": [
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "180 Side Squats",
-        "reps": "5 x Per Side",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/180 Side Squats.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "A Skips",
-        "reps": "5 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/A Skips.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Atlas Lunge",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Atlas Lunge.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Closing The Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Closing The Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Karaoke Step-over",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Karaoke Stepover.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Knee Hugs",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Knee Hugs.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Leg Swings",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Leg Swings.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Light Jog Exaggerated",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Light Jog Exaggerated.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Open Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Open Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Single Leg RDL Walks",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Single Leg RDL Walks.mp4"
-    }
-    ]
-},
-{
-    "week": 2,
-    "phase": 2,
-    "day": 34,
-    "exercises": [
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "180 Side Squats",
-        "reps": "5 x Per Side",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/180 Side Squats.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "A Skips",
-        "reps": "5 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/A Skips.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Atlas Lunge",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Atlas Lunge.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Closing The Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Closing The Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Karaoke Step-over",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Karaoke Stepover.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Knee Hugs",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Knee Hugs.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Leg Swings",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Leg Swings.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Light Jog Exaggerated",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Light Jog Exaggerated.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Open Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Open Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Single Leg RDL Walks",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Single Leg RDL Walks.mp4"
-    }
-    ]
-},
-{
-    "week": 3,
-    "phase": 2,
-    "day": 37,
-    "exercises": [
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "180 Side Squats",
-        "reps": "5 x Per Side",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/180 Side Squats.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "A Skips",
-        "reps": "5 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/A Skips.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Atlas Lunge",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Atlas Lunge.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Closing The Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Closing The Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Karaoke Step-over",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Karaoke Stepover.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Knee Hugs",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Knee Hugs.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Leg Swings",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Leg Swings.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Light Jog Exaggerated",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Light Jog Exaggerated.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Open Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Open Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Single Leg RDL Walks",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Single Leg RDL Walks.mp4"
-    }
-    ]
-},
-{
-    "week": 1,
-    "phase": 3,
-    "day": 39,
-    "exercises": [
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "180 Side Squats",
-        "reps": "5 x Per Side",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/180 Side Squats.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "A Skips",
-        "reps": "5 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/A Skips.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Atlas Lunge",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Atlas Lunge.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Closing The Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Closing The Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Karaoke Step-over",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Karaoke Stepover.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Knee Hugs",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Knee Hugs.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Leg Swings",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Leg Swings.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Light Jog Exaggerated",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Light Jog Exaggerated.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Open Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Open Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Single Leg RDL Walks",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Single Leg RDL Walks.mp4"
-    }
-    ]
-},
-{
-    "week": 1,
-    "phase": 3,
-    "day": 41,
-    "exercises": [
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "180 Side Squats",
-        "reps": "5 x Per Side",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/180 Side Squats.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "A Skips",
-        "reps": "5 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/A Skips.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Atlas Lunge",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Atlas Lunge.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Closing The Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Closing The Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Karaoke Step-over",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Karaoke Stepover.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Knee Hugs",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Knee Hugs.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Leg Swings",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Leg Swings.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Light Jog Exaggerated",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Light Jog Exaggerated.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Open Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Open Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Single Leg RDL Walks",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Single Leg RDL Walks.mp4"
-    }
-    ]
-},
-{
-    "week": 1,
-    "phase": 3,
-    "day": 43,
-    "exercises": [
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "180 Side Squats",
-        "reps": "5 x Per Side",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/180 Side Squats.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "A Skips",
-        "reps": "5 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/A Skips.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Atlas Lunge",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Atlas Lunge.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Closing The Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Closing The Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Karaoke Step-over",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Karaoke Stepover.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Knee Hugs",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Knee Hugs.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Leg Swings",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Leg Swings.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Light Jog Exaggerated",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Light Jog Exaggerated.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Open Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Open Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Single Leg RDL Walks",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Single Leg RDL Walks.mp4"
-    }
-    ]
-},
-{
-    "week": 2,
-    "phase": 3,
-    "day": 45,
-    "exercises": [
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "180 Side Squats",
-        "reps": "5 x Per Side",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/180 Side Squats.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "A Skips",
-        "reps": "5 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/A Skips.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Atlas Lunge",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Atlas Lunge.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Closing The Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Closing The Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Karaoke Step-over",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Karaoke Stepover.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Knee Hugs",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Knee Hugs.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Leg Swings",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Leg Swings.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Light Jog Exaggerated",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Light Jog Exaggerated.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Open Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Open Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Single Leg RDL Walks",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Single Leg RDL Walks.mp4"
-    }
-    ]
-},
-{
-    "week": 2,
-    "phase": 3,
-    "day": 48,
-    "exercises": [
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "180 Side Squats",
-        "reps": "5 x Per Side",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/180 Side Squats.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "A Skips",
-        "reps": "5 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/A Skips.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Atlas Lunge",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Atlas Lunge.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Closing The Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Closing The Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Karaoke Step-over",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Karaoke Stepover.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Knee Hugs",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Knee Hugs.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Leg Swings",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Leg Swings.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Light Jog Exaggerated",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Light Jog Exaggerated.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Open Door",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Open Door.mp4"
-    },
-    {
-        "type": "Dynamic Warm-up",
-        "exercise": "Single Leg RDL Walks",
-        "reps": "3 x 5",
-        "video": "/Users/Dean/GitHub/tennis-training/dist/videos/warmup/Single Leg RDL Walks.mp4"
-    }
-    ]
-}
-]
+  ]
 }

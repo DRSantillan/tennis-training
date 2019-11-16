@@ -1,9 +1,10 @@
 {
-	"days": [
+	"gym" : {
+		"days": [
 		{
 			"week": 1,
 			"phase": 1,
-			"day": 1,
+			"day": 3,
 			"exercises": [
 				{
 					"type": "Explosive",
@@ -64,7 +65,7 @@
 		{
 			"week": 1,
 			"phase": 1,
-			"day": 3,
+			"day": 5,
 			"exercises": [
 				{
 					"type": "Explosive",
@@ -125,7 +126,7 @@
 		{
 			"week": 1,
 			"phase": 1,
-			"day": 5,
+			"day": 7,
 			"exercises": [
 				{
 					"type": "Explosive",
@@ -186,7 +187,7 @@
 		{
 			"week": 2,
 			"phase": 1,
-			"day": 9,
+			"day": 10,
 			"exercises": [
 				{
 					"type": "Explosive",
@@ -247,7 +248,7 @@
 		{
 			"week": 2,
 			"phase": 1,
-			"day": 11,
+			"day": 12,
 			"exercises": [
 				{
 					"type": "Explosive",
@@ -308,7 +309,7 @@
 		{
 			"week": 2,
 			"phase": 1,
-			"day": 13,
+			"day": 14,
 			"exercises": [
 				{
 					"type": "Explosive",
@@ -369,7 +370,7 @@
 		{
 			"week": 3,
 			"phase": 1,
-			"day": 15,
+			"day": 17,
 			"exercises": [
 				{
 					"type": "Explosive",
@@ -430,7 +431,7 @@
 		{
 			"week": 3,
 			"phase": 1,
-			"day": 17,
+			"day": 19,
 			"exercises": [
 				{
 					"type": "Explosive",
@@ -489,9 +490,9 @@
 			]
 		},
 		{
-			"week": 3,
-			"phase": 1,
-			"day": 19,
+			"week": 1,
+			"phase": 2,
+			"day": 21,
 			"exercises": [
 				{
 					"type": "Explosive",
@@ -552,7 +553,7 @@
 		{
 			"week": 1,
 			"phase": 2,
-			"day": 22,
+			"day": 24,
 			"exercises": [
 				{
 					"type": "Explosive",
@@ -613,7 +614,7 @@
 		{
 			"week": 1,
 			"phase": 2,
-			"day": 24,
+			"day": 26,
 			"exercises": [
 				{
 					"type": "Explosive",
@@ -672,9 +673,9 @@
 			]
 		},
 		{
-			"week": 1,
+			"week": 2,
 			"phase": 2,
-			"day": 26,
+			"day": 28,
 			"exercises": [
 				{
 					"type": "Explosive",
@@ -735,7 +736,7 @@
 		{
 			"week": 2,
 			"phase": 2,
-			"day": 30,
+			"day": 31,
 			"exercises": [
 				{
 					"type": "Explosive",
@@ -796,7 +797,7 @@
 		{
 			"week": 2,
 			"phase": 2,
-			"day": 32,
+			"day": 33,
 			"exercises": [
 				{
 					"type": "Explosive",
@@ -855,9 +856,9 @@
 			]
 		},
 		{
-			"week": 2,
+			"week": 3,
 			"phase": 2,
-			"day": 34,
+			"day": 35,
 			"exercises": [
 				{
 					"type": "Explosive",
@@ -916,9 +917,9 @@
 			]
 		},
 		{
-			"week": 3,
-			"phase": 2,
-			"day": 37,
+			"week": 1,
+			"phase": 3,
+			"day": 38,
 			"exercises": [
 				{
 					"type": "Explosive",
@@ -979,7 +980,7 @@
 		{
 			"week": 1,
 			"phase": 3,
-			"day": 39,
+			"day": 40,
 			"exercises": [
 				{
 					"type": "Explosive",
@@ -1040,7 +1041,7 @@
 		{
 			"week": 1,
 			"phase": 3,
-			"day": 41,
+			"day": 42,
 			"exercises": [
 				{
 					"type": "Explosive",
@@ -1099,9 +1100,9 @@
 			]
 		},
 		{
-			"week": 1,
+			"week": 2,
 			"phase": 3,
-			"day": 43,
+			"day": 45,
 			"exercises": [
 				{
 					"type": "Explosive",
@@ -1162,7 +1163,7 @@
 		{
 			"week": 2,
 			"phase": 3,
-			"day": 45,
+			"day": 47,
 			"exercises": [
 				{
 					"type": "Explosive",
@@ -1223,7 +1224,7 @@
 		{
 			"week": 2,
 			"phase": 3,
-			"day": 48,
+			"day": 49,
 			"exercises": [
 				{
 					"type": "Explosive",
@@ -1282,4 +1283,7 @@
 			]
 		}
 	]
+	}
+	
+	
 }
