@@ -1,49 +1,102 @@
 .table {
-    width: 90%;
-	background-color: grey;
-	padding: 10px;
+  width: 90%;
+  background-color: grey;
+  padding: 10px;
+  margin: 0 auto;
+
+  button {
+    background-color: $training-component-strength;
+    padding: 20px;
+    border-radius: 5px;
+    outline: none;
+    color: $white;
+    font-size: 1.2rem;
+    width: 100%;
+    border: none;
+    transition: background-color 0.3s ease-in-out;
+    &:hover {
+      background-color: $training-component-strength-lighter;
+      color: $black;
+    }
+    &:active {
+      background-color: $training-component-strength;
+      color: $white;
+    }
+  }
+
+  h2 {
+    padding: 10px;
     margin: 0 auto;
+    color: $training-component-strength;
+    font-size: 2rem;
+  }
+  input {
+    border: none;
+    height: 30px;
+    border-radius: 3px;
+    outline: none;
+    padding: 12px;
+    text-align: center;
+    width: 28%;
+    font-size: 1.1rem;
+    border: solid 0.5px rgb(100, 100, 100);
+    margin-right: 3px;
+    background-color: $training-component-strength-lighter;
+    font-weight: bold;
+  }
+  &__btn {
+    background-color: $training-component-strength-lighter !important;
+    color: $black !important;
+    padding: 0 !important;
+    &:hover {
+      color: $training-component-strength !important;
+    }
+    &:active {
+      color: $white !important;
+    }
+  }
 
-    &__row {
-		display: flex;
-		align-items: flex-start;
-		align-items: center;
-		border-bottom: solid 1px grey;
+  &__row {
+    display: flex;
+    align-items: flex-start;
+    align-items: center;
+    border-bottom: solid 1px grey;
+    flex-wrap: wrap;
 
-		&:nth-child(2n + 3) {
-			background-color: $training-component-strength-lighter;
-		}
-		&:nth-of-type(2) {
-			background-color: $training-component-strength;
-			color: white;
-		}
-	}
+    &:nth-child(2n + 3) {
+      background-color: $training-component-strength-lighter;
+    }
+    &:nth-of-type(2) {
+      background-color: $training-component-strength;
+      color: white;
+    }
+  }
 
-	&__col {
-		padding: 15px;
-		display: flex;
-		flex: 1;
-		justify-content: center;
-		align-items: center;
-		&--title {
-			font-size: 1.3rem;
-			font-weight: bold;
-			text-transform: uppercase;
-		}
-		&--type {
-			font-size: 1.1rem;
-			font-weight: bold;
-			font-style: italic;
-		}
-		&--reps {
-			font-size: 1.1rem;
-			font-weight: bold;
-        }
-        
-        &--video {
-            background-color: black;
-            display: none;
-            text-align: center;
-        }
-	}
+  &__col {
+    padding: 15px;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+    &--title {
+      font-size: 1.3rem;
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+    &--type {
+      font-size: 1.1rem;
+      font-weight: bold;
+      font-style: italic;
+    }
+    &--reps {
+      font-size: 1.1rem;
+      font-weight: bold;
+    }
+
+    &--video {
+      background-color: black;
+      display: none;
+      text-align: center;
+    }
+  }
 }

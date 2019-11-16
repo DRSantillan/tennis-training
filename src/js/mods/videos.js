@@ -1,5 +1,5 @@
 const videoButtons = () => {
-  const btns = document.querySelectorAll(".strength__btn");
+  const btns = document.querySelectorAll(".table__btn");
   btns.forEach(btn => {
     btn.addEventListener("click", () => {
       toggleVideos(btns);
