@@ -1,5 +1,5 @@
-import { modalContent, modalCloseButton, modal } from "./modal";
-import { videoButtons } from "./videos";
+import { modalContent, modalCloseButton, modal } from './modal';
+import { videoButtons } from './videos';
 
 const getComponentData = async component => {
   let file = `./src/data/${component}.json`;
@@ -7,57 +7,75 @@ const getComponentData = async component => {
   const data = await res.json();
   return data;
 };
+
 const displayComponent = async (day, component) => {
-  let data = getComponentData(component);
+  
+    let data = getComponentData(component);
+    let dataWarmup = getComponentData('warmup');
+  
+
   switch (component) {
-    case "strength":
+    case 'strength':
+      const { warmup } = await dataWarmup;
       const { gym } = await data;
-      displayComponentData("Strength", gym, day, "video");
+
+      displayComponentData('Strength', gym, day, 'video', warmup);
       break;
-    case "activation":
+    case 'activation':
       const { activate } = await data;
-      displayComponentData("Activation", activate, day, "video");
+      displayComponentData('Activation', activate, day, 'video');
       break;
-    case "aerobic":
+    case 'day-off':
+      //debugger;
+      const closeModal = document.querySelector('.modal__close');
+
+      
+        modal.style.display = 'none';
+      
+      //const { activate } = await data;
+      //displayComponentData('Activation', activate, day, 'video');
+      break;
+    case 'aerobic':
       let { aerobics } = await data;
-      displayComponentData("Aerobic Endurance", aerobics, day, "video");
+      displayComponentData('Aerobic Endurance', aerobics, day, 'video');
       break;
-    case "anaerobic":
+    case 'anaerobic':
       let { anaerobics } = await data;
-      displayComponentData("Anaerobic Endurance", anaerobics, day, "other");
+      displayComponentData('Anaerobic Endurance', anaerobics, day, 'other');
       break;
-    case "cross-training":
+    case 'cross-training':
       let { cross } = await data;
-      displayComponentData("Cross Training", cross, day, "other");
+      displayComponentData('Cross Training', cross, day, 'other');
       break;
-    case "core-stability":
+    case 'core-stability':
       let { core } = await data;
-      displayComponentData("Core Stability", core, day, "video");
+      displayComponentData('Core Stability', core, day, 'video');
       break;
-    case "plyometrics":
+    case 'plyometrics':
       let { plyo } = await data;
-      displayComponentData("Plyometrics", plyo, day, "video");
+      displayComponentData('Plyometrics', plyo, day, 'video');
       break;
-    case "flexibility":
+    case 'flexibility':
       let { flex } = await data;
-      displayComponentData("Flexibility", flex, day, "video");
+      displayComponentData('Flexibility', flex, day, 'video');
       break;
-    case "injury-prevention":
+    case 'injury-prevention':
       let { injury } = await data;
-      displayComponentData("Injury Prevention", injury, day, "video");
+      displayComponentData('Injury Prevention', injury, day, 'video');
       break;
-    case "tennis":
+    case 'tennis':
       let { tennis } = await data;
-      displayComponentData("Tennis", tennis, day, "other");
+      displayComponentData('Tennis', tennis, day, 'other');
       break;
-    case "speed-agility":
+    case 'speed-agility':
       let { speed } = await data;
-      displayComponentData("Speed / Agility", speed, day, "other");
+      displayComponentData('Speed / Agility', speed, day, 'other');
       break;
   }
 };
-const displayComponentData = (componentTitle, data, day, kind) => {
-  let total = "";
+const displayComponentData = (componentTitle, data, day, kind, warmup) => {
+  let total = '';
+
   data.days.forEach(item => {
     if (day.toString() === item.day.toString()) {
       total += componentHeader(
@@ -67,7 +85,21 @@ const displayComponentData = (componentTitle, data, day, kind) => {
         componentTitle,
         kind
       );
-      if (kind === "video") {
+      if (kind === 'video') {
+        if (warmup !== undefined) {
+          warmup.exercises.forEach(w => {
+            total += componentContent(
+              w.type,
+              w.exercise,
+              null,
+              null,
+              w.reps,
+              w.video,
+              'video'
+            );
+          });
+        }
+
         item.exercises.forEach(i => {
           total += componentContent(
             i.type,
@@ -76,7 +108,7 @@ const displayComponentData = (componentTitle, data, day, kind) => {
             null,
             i.reps,
             i.video,
-            "video"
+            'video'
           );
         });
       } else {
@@ -100,27 +132,25 @@ const displayComponentData = (componentTitle, data, day, kind) => {
 };
 const componentHeader = (phase, week, day, title, kind) => {
   let header;
-  if (kind === "video") {
+  if (kind === 'video') {
     header = `	<div class="table">
 							<div class="table__row">
-								<h2>Training Phase: ${phase} - ${title}: Week ${week} - Day: ${day}</h2>
+								<h2>Phase: ${phase} Week: ${week} Day: ${day}</h2>
 							</div>
 							<div class="table__row">
 								<div class="table__col table__col--title">
-									Exercise Type
+									Type
 								</div>
 								<div class="table__col table__col--title">Exercise</div>
 								<div class="table__col table__col--title">
 									Repetitions
 								</div>
-								<div class="table__col table__col--title">1</div>
-								<div class="table__col table__col--title">2</div>
-								<div class="table__col table__col--title">3</div>
+								
 							</div>`;
   } else {
     header = `<div class="table">	
 							<div class="table__row">
-								<h2>Phase: ${phase} - ${title}: Week ${week} - Day: ${day}</h2>
+								<h2>Phase: ${phase} Week: ${week} Day: ${day}</h2>
 							</div>
 							<div class="table__row">
 								<div class="table__col table__col--title">
@@ -149,19 +179,18 @@ const componentContent = (
   kind
 ) => {
   let content;
-  if (kind === "video") {
+  if (kind === 'video') {
+    console.log(video);
     content = `<div class="table__row">
 								<div class="table__col table__col--type">${type}</div>
 								<div class="table__col">
 									<button class="table__btn">${exercise}</button>
 								</div>
 								<div class="table__col table__col--reps">${reps}</div>
-								<div class="table__col"><input id="explosive-1" /> kg</div>
-								<div class="table__col"><input id="explosive-2" /> kg</div>
-								<div class="table__col"><input id="explosive-3" /> kg</div>
+								
 							</div>
 							<div class="table__col table__col--video">
-							<video width="60%" controls>
+							<video width="100%" controls>
 								<source
 									src="${video}"
 									type="video/mp4"
@@ -185,16 +214,16 @@ const componentContent = (
 };
 
 const componentButtons = arr => {
-  const btns = document.querySelectorAll(".training-component");
+  const btns = document.querySelectorAll('.training-component');
   btns.forEach(btn => {
-    btn.addEventListener("click", () => {
-      modal.style.display = "block";
+    btn.addEventListener('click', () => {
+      modal.style.display = 'block';
       const currentDay = btn.parentElement.id;
       const btnClassList = btn.classList;
       arr.forEach(item => {
         console.log(item);
         if (btnClassList.contains(item)) {
-          let component = item.replace("training-component--", "");
+          let component = item.replace('training-component--', '');
 
           displayComponent(currentDay, component);
         }

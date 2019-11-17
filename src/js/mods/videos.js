@@ -28,4 +28,4 @@ const toggleVideos = contentBtns => {
   });
 };
 
-export { toggleVideos, videoButtons };
+export { toggleVideos, videoButtons, pauseVideos};

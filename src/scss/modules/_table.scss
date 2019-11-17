@@ -1,16 +1,11 @@
 .table {
-  width: 90%;
-  background-color: grey;
-  padding: 10px;
+  width: 100%;
   margin: 0 auto;
-
   button {
-    background-color: $training-component-strength;
-    padding: 20px;
+    padding: 10px;
     border-radius: 5px;
     outline: none;
     color: $white;
-    font-size: 1.2rem;
     width: 100%;
     border: none;
     transition: background-color 0.3s ease-in-out;
@@ -23,31 +18,30 @@
       color: $white;
     }
   }
-
   h2 {
     padding: 10px;
     margin: 0 auto;
     color: $training-component-strength;
-    font-size: 2rem;
+    font-size: 1rem;
   }
   input {
     border: none;
-    height: 30px;
+    height: 20px;
     border-radius: 3px;
     outline: none;
-    padding: 12px;
+    padding: 10px;
     text-align: center;
     width: 28%;
-    font-size: 1.1rem;
+    font-size: 0.5rem;
     border: solid 0.5px rgb(100, 100, 100);
     margin-right: 3px;
-    background-color: $training-component-strength-lighter;
     font-weight: bold;
   }
   &__btn {
-    background-color: $training-component-strength-lighter !important;
+    background-color: white !important;
     color: $black !important;
     padding: 0 !important;
+    font-size: 0.8rem !important;
     &:hover {
       color: $training-component-strength !important;
     }
@@ -55,48 +49,39 @@
       color: $white !important;
     }
   }
-
   &__row {
     display: flex;
     align-items: flex-start;
     align-items: center;
     border-bottom: solid 1px grey;
     flex-wrap: wrap;
-
-    &:nth-child(2n + 3) {
-      background-color: $training-component-strength-lighter;
-    }
-    &:nth-of-type(2) {
-      background-color: $training-component-strength;
-      color: white;
-    }
   }
-
   &__col {
-    padding: 15px;
+    padding: 10px;
     display: flex;
     flex: 1;
     justify-content: center;
     align-items: center;
+    font-size: 0.5rem;
     &--title {
-      font-size: 1.3rem;
+      font-size: 0.8rem;
       font-weight: bold;
       text-transform: uppercase;
     }
     &--type {
-      font-size: 1.1rem;
+      font-size: 0.8rem;
       font-weight: bold;
       font-style: italic;
     }
     &--reps {
-      font-size: 1.1rem;
+      font-size: 0.8rem;
       font-weight: bold;
     }
-
     &--video {
       background-color: black;
       display: none;
       text-align: center;
+      padding: 0;
     }
   }
 }

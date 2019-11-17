@@ -1,74 +1,66 @@
 .phases {
-	
-	&__btn {
-		background-color: $white;
-		width: 100%;
-		text-align: center;
-		outline: none;
-		font-size: 1rem;
-		padding: 10px;
-		border-radius: 8px;
-		cursor: pointer;
-		transition: background-color 0.5s ease-in-out;
-		margin: 5px;
-		
-		&--phase-one {
-			span {
-				display: block;
-				text-align: center;
-				font-weight: bold;
-				font-size: 1.2rem;
-			}
-			
-			background-color: $white;
-			border: 3px solid $phase-one-main;
-			color: $phase-one-main;
-			&:hover {
-				background-color: $phase-one-main;
-				color: white;
-			}
-			&:active {
-				background-color: $phase-one-active;
-			}
-		}
+  margin: 0 auto;
 
-		&--phase-two {
-			span {
-				display: block;
-				text-align: center;
-				font-weight: bold;
-			}
-			border: 3px solid $phase-two-main;
-			color: $phase-two-main;
-			&:hover {
-				background-color: $phase-two-main;
-				color: white;
-			}
-			&:active {
-				background-color: $phase-two-active;
-			}
-		}
-		&--phase-three {
-			span {
-				display: block;
-				text-align: center;
-				font-weight: bold;
-			}
-			border: 3px solid $phase-three-main;
-			color: $phase-three-main;
-			&:hover {
-				background-color: $phase-three-main;
-				color: white;
-			}
-			&:active {
-				background-color: $phase-three-active;
-			}
-		}
-	}
+  &__btn {
+    position: relative;
+    left: -5px;
+    //height: 29vh;
+    background-color: $white;
+    width: 100%;
+    text-align: center;
+    outline: none;
+    font-size: 1rem;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.5s ease-in-out;
+    margin: 5px;
+    span {
+      display: inline-block;
+      text-align: center;
+      font-weight: bold;
+      font-size: 1rem;
+      padding: 5px;
+    }
+    &--phase-one {
+      border: 3px solid $phase-one-main;
+      color: $phase-one-main;
+      &:hover {
+        background-color: $phase-one-main;
+        color: white;
+      }
+      &:active {
+        background-color: $phase-one-active;
+      }
+    }
 
-	&__content {
-		//max-height: 0;
-		display: none;
-		transition: display 0.5s ease-in-out;
-	}
+    &--phase-two {
+      border: 3px solid $phase-two-main;
+      color: $phase-two-main;
+      &:hover {
+        background-color: $phase-two-main;
+        color: white;
+      }
+      &:active {
+        background-color: $phase-two-active;
+      }
+    }
+    &--phase-three {
+      border: 3px solid $phase-three-main;
+      color: $phase-three-main;
+      &:hover {
+        background-color: $phase-three-main;
+        color: white;
+      }
+      &:active {
+        background-color: $phase-three-active;
+      }
+    }
+  }
+
+  &__content {
+    //max-height: 0;
+    display: none;
+    transition: display 0.5s ease-in-out;
+  }
 }

@@ -1,4 +1,6 @@
-const modal = document.getElementById("modal");
+import { pauseVideos } from './videos';
+
+const modal = document.getElementById('modal');
 
 const modalContent = (html, title) => {
   const content = `<div class="modal__content">
@@ -10,10 +12,11 @@ const modalContent = (html, title) => {
   return content;
 };
 const modalCloseButton = () => {
-  const closeModal = document.querySelector(".modal__close");
+  const closeModal = document.querySelector('.modal__close');
 
-  closeModal.addEventListener("click", () => {
-    modal.style.display = "none";
+  closeModal.addEventListener('click', () => {
+    pauseVideos();
+    modal.style.display = 'none';
   });
 };
 

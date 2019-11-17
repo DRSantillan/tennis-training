@@ -1,6 +1,7 @@
 const btnsOpenClose = contentClass => {
   const btns = document.querySelectorAll(contentClass);
   btns.forEach(btn => {
+    
     btn.addEventListener("click", () => {
       toggleButtons(btns);
       let content = btn.nextElementSibling;

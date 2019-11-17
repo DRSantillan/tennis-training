@@ -10,22 +10,21 @@
   margin: 5px;
   color: white;
   outline: none;
-  font-weight: bold;
-  font-size: 1.3rem;
-  padding: 10px;
+  font-size: 1rem;
+  padding: 5px;
   border: none;
   cursor: pointer;
   border-radius: 8px;
   width: 40%;
   height: 100px;
-
+  text-align: center;
   transition: background-color 0.3s linear;
   &--tennis {
     background-color: $training-component-tennis;
     border: solid 1px $training-component-tennis;
     &:hover {
       border: solid 1px $training-component-tennis;
-      text-align: center;
+
       background-color: white;
       color: $training-component-tennis;
     }
@@ -39,7 +38,6 @@
     border: solid 1px $training-component-injury-prevention;
     &:hover {
       border: solid 1px $training-component-injury-prevention;
-      text-align: center;
       background-color: white;
       color: $training-component-injury-prevention;
     }
@@ -53,7 +51,6 @@
     border: solid 1px $training-component-aerobic;
     &:hover {
       border: solid 1px $training-component-aerobic;
-      text-align: center;
       background-color: $white;
       color: $training-component-aerobic;
     }
@@ -67,7 +64,6 @@
     border: solid 1px $training-component-anaerobic;
     &:hover {
       border: solid 1px $training-component-anaerobic;
-      text-align: center;
       background-color: $white;
       color: $training-component-anaerobic;
     }
@@ -81,7 +77,7 @@
     border: solid 1px $training-component-strength;
     &:hover {
       border: solid 1px $training-component-strength;
-      text-align: center;
+
       color: $training-component-strength;
       background-color: $white;
     }
@@ -96,7 +92,7 @@
     &:hover {
       background-color: $white;
       border: solid 1px $training-component-core-stability;
-      text-align: center;
+
       color: $training-component-core-stability;
     }
     &:active {
@@ -110,7 +106,7 @@
     &:hover {
       background-color: $white;
       border: solid 1px $training-component-flexibility;
-      text-align: center;
+
       color: $training-component-flexibility;
     }
     &:active {
@@ -124,7 +120,7 @@
     &:hover {
       background-color: $white;
       border: solid 1px $training-component-cross-training;
-      text-align: center;
+
       color: $training-component-cross-training;
     }
     &:active {
@@ -138,7 +134,7 @@
     &:hover {
       background-color: $white;
       border: solid 1px $training-component-activation;
-      text-align: center;
+
       color: $training-component-activation;
     }
     &:active {
@@ -152,7 +148,7 @@
     &:hover {
       background-color: $white;
       border: solid 1px $training-component-recovery;
-      text-align: center;
+
       color: $training-component-recovery;
     }
     &:active {
@@ -166,7 +162,7 @@
     &:hover {
       background-color: $white;
       border: solid 1px $training-component-day-off;
-      text-align: center;
+
       color: $training-component-day-off;
     }
     &:active {
@@ -180,7 +176,7 @@
     &:hover {
       background-color: $white;
       border: solid 1px $training-component-speed-agility;
-      text-align: center;
+
       color: $training-component-speed-agility;
     }
     &:active {
@@ -194,7 +190,6 @@
     &:hover {
       background-color: $white;
       border: solid 1px $training-component-tennis-tv;
-      text-align: center;
       color: $training-component-tennis-tv;
     }
     &:active {
@@ -208,7 +203,6 @@
     &:hover {
       background-color: $white;
       border: solid 1px $training-component-life-coach;
-      text-align: center;
       color: $training-component-tennis;
     }
     &:active {
@@ -221,7 +215,6 @@
     border: solid 1px $training-component-plyometrics;
     &:hover {
       border: solid 1px $training-component-plyometrics;
-      text-align: center;
       background-color: $white;
       color: $training-component-plyometrics;
     }
